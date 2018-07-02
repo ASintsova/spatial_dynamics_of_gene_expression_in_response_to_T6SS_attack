@@ -128,7 +128,7 @@ def plot_cov_ellipse(cov, pos, nstd=2, ax=None, **kwargs):
     return ellip
 
 
-def remove_hypotheticals(df, col_name="function"):
+def remove_hypotheticals(df, col_name="Function"):
     keep = []
     for i, x in zip(df.index, df[col_name]):
         if not type(x) == str:
@@ -166,7 +166,9 @@ def draw_heatmap_of_subset(df_index, meta, title, rpkms, samples,
     t.rename(index=str, columns={c: samples[c] for c in t.columns}, inplace=True)
     if draw:
         fig = plt.figure(figsize=fs)
-        s = sns.heatmap(np.log2(t + 1), cmap=my_cmap, cbar_kws={'label': 'Log2 RPKMs'});
+        s = sns.heatmap(np.log2(t + 1), cmap=my_cmap,
+                        linewidths=0.5, linecolor='black',
+                        cbar_kws={'label': 'Log2 RPKMs'});
 
         s.set_title(title)
         return fig

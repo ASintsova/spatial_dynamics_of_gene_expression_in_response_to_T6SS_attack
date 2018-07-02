@@ -38,4 +38,9 @@ if __name__ == "__main__":
     genome = "pmr"
     for csv_file in csv_files:
         print(csv_file)
-        process_table(csv_file, genome)
+        if os.path.getsize(csv_file) < 100:
+            continue
+        elif csv_file.endswith("_edited.csv"):
+            continue
+        else:
+            process_table(csv_file, genome)
