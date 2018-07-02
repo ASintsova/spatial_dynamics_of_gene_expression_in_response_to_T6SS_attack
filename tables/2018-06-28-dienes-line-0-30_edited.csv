@@ -1,0 +1,25 @@
+,Mean Expression,Log2 Fold Change,Adjusted P value,Gene Name,Function,Pathway
+PMI1426,2603.37882766334,2.53645694428352,3.9022496219236896e-14,hmuR2,(GenBank) hemin receptor,
+PMI1425,1440.35577466471,2.21940466732816,7.82134173812213e-09,hmuR1,(GenBank) hemin receptor,
+PMI2396,2135.7920734331697,2.2173045846687405,8.655405356748099e-08,,(GenBank) conserved hypothetical protein,
+PMI2397,485.584871975794,1.8020887591885302,4.79949760603055e-05,,(GenBank) conserved hypothetical protein,
+PMI1427,2649.00442474931,1.5989639988511202,8.70488209497925e-05,hmuS,(GenBank) hemin transport protein,
+PMI1428,550.647136174624,1.55976850289601,5.04026451413558e-05,hmuT,(GenBank) hemin-binding periplasmic protein,pmr02010  ABC transporters
+PMI1429,214.018585832295,1.35855605701418,0.000215759737184177,hmuU,(GenBank) hemin transport system permease protein HmuU,pmr02010  ABC transporters
+PMI2572,31.772170507185503,1.34169299100278,0.011982425844389999,,(GenBank) putative exported protein,
+PMI0236,64.2584155311405,1.32575398309912,0.0029833325945688603,,(GenBank) putative octopine/opine/tauropine dehydrogenase,
+PMI1002,470.33795373589106,1.24301334466842,0.00185873315213373,,(GenBank) transposase,
+PMI1430,308.746938431002,1.1668372385163,0.00100641607198627,hmuV,(GenBank) hemin transport system ATP-binding protein,pmr02010  ABC transporters
+PMI2402,1114.93288914218,1.1456910423816002,0.0283204193874613,dhaK,"(GenBank) PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit","pmr00561  Glycerolipid metabolism, pmr01100  Metabolic pathways"
+PMI0229,120.847144433248,1.1431351692341498,0.00674593063274377,,"(GenBank) ABC transporter, permease protein (FecCD transport family)",pmr02010  ABC transporters
+PMI3710,234.606876804957,1.0976633235648199,0.0047755189833997395,,(GenBank) transposase,
+PMI2796,1581.21721889233,-1.00271020419201,0.0029833325945688603,,(GenBank) putative intracellular sulfur oxidation protein,pmr04122  Sulfur relay system
+fig|529507.6.peg.3416,47.83989308591471,-1.01128093222047,0.0202394802307809,,,
+PMI3376,2376.87888588834,-1.05265030143248,0.0405473712596883,rpsR,(GenBank) 30S ribosomal protein S18,pmr03010  Ribosome
+PMI0584,9948.19998299101,-1.05360435949369,0.0019738403397771397,tolB,(GenBank) TolB protein,
+PMI1417,1162.09387218635,-1.0582450101827299,0.011982425844389999,,(GenBank) putative lipoprotein,
+PMI0648,1809.6927829346,-1.0719003432037,5.04026451413558e-05,,(GenBank) putative ATP-binding protein,
+PMI3401,187.37700486857102,-1.07939097170458,0.0329871419995921,sfsB,(GenBank) sugar fermentation stimulation protein,
+PMI0729,619.924376324518,-1.08423187174129,0.04644666365098099,aphA,(GenBank) class B acid phosphatase precursor,"pmr00740  Riboflavin metabolism, pmr01100  Metabolic pathways"
+PMI0861,12880.3016401906,-1.1341727321708701,0.0036655281640180703,fabG,(GenBank) 3-oxoacyl-[acyl-carrier protein] reductase,"pmr00061  Fatty acid biosynthesis, pmr00780  Biotin metabolism, pmr01040  Biosynthesis of unsaturated fatty acids, pmr01100  Metabolic pathways, pmr01130  Biosynthesis of antibiotics, pmr01212  Fatty acid metabolism"
+fig|529507.6.peg.3417,40.2784472306037,-1.37565592400462,0.000810321093713091,,,

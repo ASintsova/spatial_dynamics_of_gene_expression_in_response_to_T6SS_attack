@@ -1,0 +1,708 @@
+,Mean Expression,Log2 Fold Change,Adjusted P value,Gene Name,Function,Pathway
+PMI1031,1118.35038940042,4.916654578350429,1.38881520464654e-46,csaA,(GenBank) putative protein secretion chaperone,
+PMI0781,550.574064034338,4.70058576407427,6.51562381700468e-32,rmf,(GenBank) ribosome modulation factor,
+PMI0348,1505.67995712595,4.6006718886988605,2.57175336046289e-17,fadE,(GenBank) acyl-coenzyme A dehydrogenase,"pmr00071  Fatty acid degradation, pmr01100  Metabolic pathways, pmr01212  Fatty acid metabolism"
+PMI2408,120.501755705372,3.7467973944041604,5.95545943054286e-12,,(GenBank) MFS-family transporter,pmr02020  Two-component system
+PMI1956,159.943869455271,3.7449655779630295,8.21814765348742e-19,,(GenBank) conserved hypothetical protein,
+PMI2662,11219.4104681594,3.7293442209602703,3.67103757671123e-09,,(GenBank) chitin binding protein,
+PMI3226,4614.88903929535,3.71535024371739,3.04295426813924e-12,,(GenBank) hypothetical protein,
+PMI3039,3491.01179674408,3.58774705568677,9.29187242502294e-09,actP,(GenBank) cation/acetate symporter,
+PMI1804,1400.63238889981,3.46047202761267,6.53765659192604e-15,,(GenBank) ferritin-like protein,
+PMI3549,1929.8577582235998,3.2636937533524595,2.08939920491384e-08,fadA,(GenBank) 3-ketoacyl-CoA thiolase,"pmr00071  Fatty acid degradation, pmr00280  Valine, leucine and isoleucine degradation, pmr00281  Geraniol degradation, pmr00362  Benzoate degradation, pmr00592  alpha-Linolenic acid metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01212  Fatty acid metabolism"
+PMI1011,244.756645712127,3.1811165481150097,3.01650010783377e-10,,(GenBank) conserved hypothetical protein,
+PMI3550,5102.72070327475,3.18014338091958,9.389876632231859e-08,fadB,(GenBank) fatty oxidation complex alpha subunit [includes: enoyl-CoA hydratase; 3-hydroxyacyl-CoA dehydrogenase and 3-hydroxybutyryl-CoA epimerase],"pmr00071  Fatty acid degradation, pmr00280  Valine, leucine and isoleucine degradation, pmr00281  Geraniol degradation, pmr00310  Lysine degradation, pmr00362  Benzoate degradation, pmr00380  Tryptophan metabolism, pmr00410  beta-Alanine metabolism, pmr00640  Propanoate metabolism, pmr00650  Butanoate metabolism, pmr00903  Limonene and pinene degradation, pmr00930  Caprolactam degradation, pmr01040  Biosynthesis of unsaturated fatty acids, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01212  Fatty acid metabolism"
+PMI1349,936.655552015647,3.1068493718240897,1.47647978047007e-11,,(GenBank) putative lipoprotein,
+PMI2764,1086.52673418661,2.9555084565090097,2.09638403973637e-10,aceB,(GenBank) malate synthase A,"pmr00620  Pyruvate metabolism, pmr00630  Glyoxylate and dicarboxylate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01200  Carbon metabolism"
+PMI0436,673.127501459339,2.9400627608189795,4.13217905759178e-06,gltJ,"(GenBank) glutamate/aspartate ABC transporter, permease protein","pmr02010  ABC transporters, pmr02020  Two-component system"
+PMI1808,810.5370615773579,2.9331113717005404,2.42944009906001e-10,fadI,(GenBank) 3-ketoacyl-CoA thiolase,"pmr00071  Fatty acid degradation, pmr00280  Valine, leucine and isoleucine degradation, pmr00281  Geraniol degradation, pmr00362  Benzoate degradation, pmr00592  alpha-Linolenic acid metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01212  Fatty acid metabolism"
+PMI3595,2187.27592788356,2.9164554420794504,4.03851551741838e-18,gldA,(GenBank) glycerol dehydrogenase,"pmr00561  Glycerolipid metabolism, pmr00640  Propanoate metabolism, pmr01100  Metabolic pathways"
+PMI2763,671.213292739974,2.8921692120239,6.52318797872268e-16,aceA,(GenBank) isocitrate lyase,"pmr00630  Glyoxylate and dicarboxylate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01200  Carbon metabolism"
+PMI3449,929.447620418726,2.80058645037206,2.08939920491384e-08,,(GenBank) conserved hypothetical protein,
+PMI0631,2603.56117332435,2.79829673642301,1.25410229454024e-13,dps,(GenBank) DNA protection during starvation protein,
+PMI1406,3080.0435446920396,2.78446208453741,1.97260837473443e-08,gadC,(GenBank) probable glutamate/gamma-aminobutyrate antiporter (extreme acid sensitivity protein),pmr02024  Quorum sensing
+PMI3556,6481.7071867494105,2.7687302030579706,5.0324677172313105e-06,,(GenBank) putative membrane protein,
+PMI1807,1229.4154620250802,2.76805312658939,9.479023769413691e-09,fadJ,(GenBank) fatty acid oxidation complex alpha subunit [includes: enoyl-coa hydratase and 3-hydroxyacyl-coa dehydrogenase],"pmr00071  Fatty acid degradation, pmr00280  Valine, leucine and isoleucine degradation, pmr00281  Geraniol degradation, pmr00310  Lysine degradation, pmr00362  Benzoate degradation, pmr00380  Tryptophan metabolism, pmr00410  beta-Alanine metabolism, pmr00640  Propanoate metabolism, pmr00650  Butanoate metabolism, pmr00903  Limonene and pinene degradation, pmr00930  Caprolactam degradation, pmr01040  Biosynthesis of unsaturated fatty acids, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01212  Fatty acid metabolism"
+PMI2268,3353.65789810854,2.7501442737022,1.04373605544886e-06,,(GenBank) short chain dehydrogenase,
+PMI1395,88.74217570817021,2.72689435391892,1.3143007159830901e-08,,(GenBank) hypothetical protein,
+PMI1773,1271.15749147807,2.69349504941086,3.17017016520378e-13,gcd,(GenBank) quinoprotein glucose dehydrogenase,"pmr00030  Pentose phosphate pathway, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics"
+PMI1407,11455.8885412046,2.69263755304596,4.13314950064724e-08,gadB,(GenBank) glutamate decarboxylase beta,"pmr00250  Alanine, aspartate and glutamate metabolism, pmr00410  beta-Alanine metabolism, pmr00430  Taurine and hypotaurine metabolism, pmr00650  Butanoate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr02024  Quorum sensing"
+PMI2114,4700.2651190815795,2.67097552885159,1.84313660682943e-05,,(GenBank) putative sodium:alanine symporter,
+PMI3557,4500.46972645733,2.6586071059515697,2.38988315295075e-06,,(GenBank) conserved hypothetical protein,
+PMI2236,2410.26768738466,2.61922968071643,7.7025030519853e-07,rpoS,(GenBank) RNA polymerase sigma factor RpoS,
+PMI1542,64.7230785388114,2.6186029845721,1.1276908918376699e-07,,(GenBank) hypothetical protein,
+PMI3037,28438.7783257589,2.6078318154443902,4.220428011890589e-05,acs,(GenBank) acetyl-coenzyme A synthetase,"pmr00010  Glycolysis / Gluconeogenesis, pmr00620  Pyruvate metabolism, pmr00640  Propanoate metabolism, pmr00680  Methane metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism"
+PMI3703,531.290859260942,2.60700809133197,2.6247020325292603e-13,,(GenBank) putative membrane protein,
+PMI2409,89.38689724982821,2.58793898764093,9.29187242502294e-09,,(GenBank) putative pyruvate kinase,"pmr00010  Glycolysis / Gluconeogenesis, pmr00230  Purine metabolism, pmr00620  Pyruvate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01230  Biosynthesis of amino acids"
+PMI3450,2275.6145048021303,2.57970982379809,2.18938931032674e-07,nrdG,(GenBank) anaerobic ribonucleoside-triphosphate reductase activating protein,
+PMI3579,9897.438859433041,2.57524515412858,9.757210787487159e-06,,(GenBank) conserved hypothetical protein,
+PMI0603,788.488144142706,2.4983323547274505,7.559854623943029e-06,bioB,(GenBank) biotin synthase,"pmr00780  Biotin metabolism, pmr01100  Metabolic pathways"
+PMI2990,15808.1589947414,2.48568881283494,4.8374219844513795e-12,,(GenBank) conserved hypothetical protein,pmr03070  Bacterial secretion system
+PMI1082,312.76108095904,2.45392115705782,5.31027107484305e-08,,(GenBank) putative membrane protein,
+PMI1223,1510.44727446693,2.45224525987077,5.88900193818308e-06,,(GenBank) HlyD-family secretion protein,
+PMI3038,1197.7547441570098,2.45170844034173,0.0030450452289921,,(GenBank) putative membrane protein,
+PMI1439,243.663762408598,2.44746988298191,1.5330074190187499e-13,phoH,(GenBank) PhoH protein (phosphate starvation-inducible protein PsiH),
+PMI2659,890.245324567221,2.44692174831335,1.5305914618673903e-09,caiE,(GenBank) putative transferase in carnitine metabolism,
+PMI0435,469.281331092094,2.43705525386793,5.638456554371171e-05,gltK,"(GenBank) glutamate/aspartate ABC transporter, permease protein","pmr02010  ABC transporters, pmr02020  Two-component system"
+PMI0688,1446.82115155837,2.4363288533167,5.79890940282592e-05,cspD,(GenBank) cold shock-like protein,
+PMI1740,3972.5078856237606,2.4304863487878903,3.8289070649743797e-07,katA,(GenBank) catalase,"pmr00380  Tryptophan metabolism, pmr00630  Glyoxylate and dicarboxylate metabolism, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism"
+PMI1320,2063.6624060128,2.42928598390787,5.21297776540989e-07,acnA,(GenBank) aconitate hydratase 1,"pmr00020  Citrate cycle (TCA cycle), pmr00630  Glyoxylate and dicarboxylate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01210  2-Oxocarboxylic acid metabolism, pmr01230  Biosynthesis of amino acids"
+PMI0845,446.034436445459,2.41647044283871,1.90361076053132e-08,ipdC,(GenBank) putative indole-3-pyruvate decarboxylase,"pmr00380  Tryptophan metabolism, pmr01100  Metabolic pathways"
+PMI0437,6652.67198741932,2.4081329626047,0.004822707438249411,gltI,"(GenBank) glutamate/aspartate ABC transporter, substrate-binding protein","pmr02010  ABC transporters, pmr02020  Two-component system"
+PMI1702,188.992371915844,2.4048337477818302,1.9731515889870398e-13,,(GenBank) putative membrane protein,
+PMI1452,672.67172050882,2.38572552669769,2.1516706507375002e-11,,(GenBank) conserved hypothetical protein,
+PMI1532,2270.10179801725,2.3839773854912902,1.7926722615050897e-05,,(GenBank) glucose 1-dehydrogenase,"pmr00030  Pentose phosphate pathway, pmr01120  Microbial metabolism in diverse environments, pmr01200  Carbon metabolism"
+PMI1058,7758.80079321565,2.3603175162271204,4.52694941523266e-10,budB,"(GenBank) acetolactate synthase, catabolic","pmr00290  Valine, leucine and isoleucine biosynthesis, pmr00650  Butanoate metabolism, pmr00660  C5-Branched dibasic acid metabolism, pmr00770  Pantothenate and CoA biosynthesis, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01210  2-Oxocarboxylic acid metabolism, pmr01230  Biosynthesis of amino acids"
+PMI1225,441.43716192358,2.3559075530226,4.59039711331878e-07,,(GenBank) ABC-2 type transporter,
+PMI1224,1535.42406075811,2.3415658670056296,1.83399387267016e-07,,(GenBank) putative ABC-type multidrug transport system,
+PMI0223,11365.946720823,2.33739555053406,3.41879672400455e-05,,(GenBank) putative alpha-keto acid decarboxylase,
+PMI3702,1784.4276434996302,2.3293973070655802,1.55374595928014e-07,fadH,"(GenBank) 2,4-dienoyl-CoA reductase",
+PMI1384,705.496607235414,2.32849351877645,2.8466390126713e-16,gst,(GenBank) glutathione S-transferase,pmr00480  Glutathione metabolism
+PMI3343,1199.0714219937,2.30746001652405,8.34835821393928e-06,,(GenBank) putative thioesterase,
+PMI1059,2583.5557653403503,2.29516755440201,8.44509601328154e-14,budA,(GenBank) alpha-acetolactate decarboxylase,"pmr00650  Butanoate metabolism, pmr00660  C5-Branched dibasic acid metabolism"
+PMI1475,33884.3978622399,2.28892472237029,0.000345377345105167,oppA,"(GenBank) oligopeptide ABC transporter, oligopeptide-binding protein","pmr01501  beta-Lactam resistance, pmr02010  ABC transporters, pmr02024  Quorum sensing"
+PMI1032,461.639224861177,2.28649943399821,1.73183995438116e-17,,(GenBank) putative transcriptional regulator,
+PMI2529,2193.7332287498803,2.2698771714675803,1.35143921522839e-11,rpiB,(GenBank) putative ribose 5-phosphate isomerase,"pmr00030  Pentose phosphate pathway, pmr00051  Fructose and mannose metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01230  Biosynthesis of amino acids"
+PMI1023,399.389568006619,2.26206025512435,3.77300907810959e-10,,(GenBank) putative kinase,
+PMI2991,16555.9878207191,2.2599016313498597,3.25874231862687e-08,,(GenBank) VgrG-like protein,pmr03070  Bacterial secretion system
+PMI3559,13605.0061914942,2.25905255712866,0.000120222380817522,,(GenBank) putative bifunctional acetyl-/propionyl-coenzyme A carboxylase alpha chain [includes: biotin carboxylase and biotin carboxyl carrier protein],"pmr00061  Fatty acid biosynthesis, pmr00280  Valine, leucine and isoleucine degradation, pmr00620  Pyruvate metabolism, pmr00630  Glyoxylate and dicarboxylate metabolism, pmr00640  Propanoate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01212  Fatty acid metabolism"
+PMI1408,3712.79610508508,2.25754700907487,2.0766995453680606e-09,,(GenBank) putative conjugated bile acid hydrolase,"pmr00121  Secondary bile acid biosynthesis, pmr01100  Metabolic pathways"
+PMI1006,3116.10895532209,2.24508658442456,1.10923420736444e-06,uspF,(GenBank) universal stress protein F,
+PMI1449,720.600280073585,2.23633335545092,5.74284085477009e-07,uspG1,(GenBank) universal stress protein G,
+PMI1591,2958.0028978038695,2.23103503633155,1.1276908918376699e-07,,(GenBank) putative diacylglycerol kinase,
+PMI3253,4540.62754070045,2.22848665738556,2.40521321295896e-10,bfr,(GenBank) bacterioferritin,pmr00860  Porphyrin and chlorophyll metabolism
+PMI1780,1405.5740431187,2.22746433923189,8.565323957532921e-13,,(GenBank) putative glutathione-S transferase,
+PMI2846,597.283111576746,2.22007367229001,0.00025781432861468997,dppB,"(GenBank) dipeptide ABC transporter, permease protein",pmr02010  ABC transporters
+PMI1957,16.4835691888224,2.21520320081246,0.000140230380558575,,(GenBank) conserved hypothetical protein,
+PMI0991,1177.75023072051,2.2104982215667004,8.592224479865289e-06,,(GenBank) conserved hypothetical protein,
+PMI2256,14225.1495846766,2.21000847137362,0.000130792227645759,,(GenBank) putative oxidoreductase,pmr00920  Sulfur metabolism
+PMI2569,296.072735343408,2.20514706370564,2.79070040540255e-11,,(GenBank) putative membrane protein,
+PMI2254,9456.30842963915,2.20251327679859,0.00024663900840877004,mdeA,(GenBank) methionine gamma-lyase,"pmr00270  Cysteine and methionine metabolism, pmr00450  Selenocompound metabolism"
+PMI3558,12373.2127765017,2.18293023351968,0.000238646506953348,,(GenBank) putative allophanate hydrolase,
+PMI0391,238.125774765777,2.17476374926913,3.2622337156248104e-05,,(GenBank) putative sigma 54 modulation protein,
+PMI1390,276.490251000491,2.17373783263899,1.8166433540125803e-08,slyA,(GenBank) MarR-family transcriptional regulator,
+PMI0121,384.897662453756,2.1707847432411,7.077903933974581e-11,,(GenBank) conserved hypothetical protein,
+PMI0279,392250.39449687296,2.16221196127636,5.0624029484355995e-06,zapA,(GenBank) metalloprotease,pmr01503  Cationic antimicrobial peptide (CAMP) resistance
+PMI1781,1069.35534746222,2.15915540630763,7.017834743646629e-07,,(GenBank) conserved hypothetical protein,
+fig|529507.6.peg.1530,69.3735541099468,2.15712325550571,0.000129569706852023,,,
+PMI2092,2103.27074807139,2.14995582861205,2.63586552190293e-12,budC,(GenBank) acetoin(diacetyl) reductase,pmr00650  Butanoate metabolism
+PMI3007,1016.4358570565599,2.14356590208363,1.50723125903545e-07,,(GenBank) short chain dehydrogenase,
+PMI2407,231.456311888607,2.13906906782149,1.7481165277396002e-12,pgtC,"(GenBank) phosphoglycerate transport system, substrate-binding/regulatory protein",pmr02020  Two-component system
+PMI1467,27.899262639227,2.13836723714865,0.000323811195944306,,(GenBank) fimbrial chaperone protein,
+PMI3010,464.698871271168,2.1172686992248,5.0624029484355995e-06,uspB,(GenBank) universal stress protein B,
+PMI0072,6036.07941445205,2.11126197070736,0.00063841509061261,ggt,(GenBank) gamma-glutamyltranspeptidase,"pmr00430  Taurine and hypotaurine metabolism, pmr00460  Cyanoamino acid metabolism, pmr00480  Glutathione metabolism, pmr01100  Metabolic pathways"
+PMI2931,267.995833733221,2.1107442243133,2.46239558450415e-06,,(GenBank) conserved hypothetical protein,
+PMI3093,1394.26627008545,2.10438715550509,8.79758033365121e-11,,(GenBank) putative exported protein,
+PMI2019,15429.9819965394,2.05543541564817,0.000744129173500126,gcvP,(GenBank) glycine dehydrogenase [decarboxylating] (glycine cleavage system P-protein),"pmr00260  Glycine, serine and threonine metabolism, pmr00630  Glyoxylate and dicarboxylate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism"
+PMI1592,6270.64076991111,2.05170289562605,0.000344973554593489,fbaB,(GenBank) fructose-bisphosphate aldolase class I,"pmr00010  Glycolysis / Gluconeogenesis, pmr00030  Pentose phosphate pathway, pmr00051  Fructose and mannose metabolism, pmr00680  Methane metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01230  Biosynthesis of amino acids"
+PMI2341,1024.1710746823899,2.04353153458589,6.364597661340439e-07,,(GenBank) autotransporter (serine protease),
+PMI2255,3359.80484646697,2.04351333292932,0.000385963282667811,,(GenBank) conserved hypothetical protein,
+PMI1333,235.434925235136,2.03783334058463,4.335431036571551e-15,sodC,(GenBank) copper-zinc superoxide dismutase,
+PMI2203,749.043260277732,2.0110609695495802,5.07609743303917e-08,,(GenBank) putative isochorismatase,
+PMI0360,1606.9216408828,1.99744203339937,5.00680153031274e-05,,(GenBank) putative general stress response protein,
+PMI1275,55.527801802048906,1.98039434060783,2.33760384371709e-06,,(GenBank) putative aminotransferase,"pmr00270  Cysteine and methionine metabolism, pmr00450  Selenocompound metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01230  Biosynthesis of amino acids"
+PMI1202,1206.72819139167,1.9781573979151499,1.41264769452966e-10,uspE,(GenBank) universal stress protein E,
+PMI2658,693.9048467938701,1.96515429142865,1.03398983896515e-08,caiD,(GenBank) carnitinyl-CoA dehydratase,
+PMI1117,11140.343089668999,1.96234472321782,4.1899232971533997e-07,hcp,(GenBank) conserved hypothetical protein,pmr03070  Bacterial secretion system
+PMI1952,307.721353001075,1.95612472340635,1.23319090990709e-06,tkrA,(GenBank) 2-ketogluconate reductase (2-ketoaldonate reductase),"pmr00030  Pentose phosphate pathway, pmr00260  Glycine, serine and threonine metabolism, pmr00620  Pyruvate metabolism, pmr00630  Glyoxylate and dicarboxylate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments"
+PMI2231,214.80588533488498,1.95456552204378,2.63268284018352e-08,,(GenBank) putative transport protein,
+PMI2021,18582.2931419723,1.95102313167866,0.00041634445782567003,gcvT,(GenBank) aminomethyltransferase (glycine cleavage system T protein),"pmr00260  Glycine, serine and threonine metabolism, pmr00630  Glyoxylate and dicarboxylate metabolism, pmr00670  One carbon pool by folate, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism"
+PMI2549,423.88059792478106,1.94621690905335,7.09535877887162e-06,,(GenBank) putative phage integrase,
+PMI3505,4.57935638911949,1.94556268311176,0.0167117675582693,,(GenBank) putative putative IS element transposase,
+PMI2020,12560.9975591146,1.9433475954507602,0.000377521578252108,gcvH,(GenBank) glycine cleavage system H protein,"pmr00260  Glycine, serine and threonine metabolism, pmr00630  Glyoxylate and dicarboxylate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism"
+PMI1613,386.016577033017,1.9339713496584199,0.001292998127903,,(GenBank) universal stress protein,
+PMI0602,193.96985818665502,1.93211460966402,0.00024108879575165097,bioA,(GenBank) adenosylmethionine-8-amino-7-oxononanoate aminotransferase,"pmr00780  Biotin metabolism, pmr01100  Metabolic pathways"
+PMI1476,9580.47688493468,1.9208415179781202,0.000561196195083618,oppA2,"(GenBank) oligopeptide ABC transporter, oligopeptide-binding protein","pmr01501  beta-Lactam resistance, pmr02010  ABC transporters, pmr02024  Quorum sensing"
+PMI1611,69.7008415050114,1.9159402752173702,8.463250894594979e-07,,(GenBank) universal stress protein,
+PMI1409,3536.2561075578797,1.9117133229346799,0.000771426607017782,lpp,(GenBank) major outer membrane lipoprotein (murein-lipoprotein),
+PMI3387,314.996768274207,1.90561447856054,4.8626132238271e-06,,(GenBank) conserved hypothetical protein,
+PMI1402,657.319630483747,1.9051221476554099,2.0643336708326397e-13,cfa,(GenBank) cyclopropane-fatty-acyl-phospholipid synthase,
+PMI2992,6370.96040051428,1.90270139511255,1.80153632234483e-05,,(GenBank) hypothetical protein,
+PMI2509,908.0084931849229,1.9012741706155902,3.43264970428242e-05,,(GenBank) conserved hypothetical protein,
+PMI1474,2518.69968193173,1.89563546326181,0.00182824118111066,oppB,"(GenBank) oligopeptide ABC transporter, permease protein","pmr01501  beta-Lactam resistance, pmr02010  ABC transporters, pmr02024  Quorum sensing"
+PMI2847,6973.348235786751,1.88425247459539,0.0228602691228982,dppA,"(GenBank) dipeptide ABC transporter, substrate-binding protein","pmr02010  ABC transporters, pmr02030  Bacterial chemotaxis"
+PMI2661,500.480234965627,1.8766064585403501,1.46220805395964e-07,fsaA,(GenBank) fructose-6-phosphate aldolase,
+PMI1529,6206.75628541225,1.86325616114436,0.00039759766421169104,,(GenBank) putative exported protein,
+PMI1450,540.84685025208,1.86288267081849,9.82265083665297e-06,,(GenBank) Putative membrane protein,
+PMI0396,12.950580320939801,1.8619417533075902,0.0016174473745135,,(GenBank) putative exported protein,
+PMI0604,285.013449435942,1.8574410592466,0.0023678492223021697,bioF,(GenBank) 8-amino-7-oxononanoate synthase,"pmr00780  Biotin metabolism, pmr01100  Metabolic pathways"
+PMI3483,2.83240170837233,1.8573090917901,0.0382771251803314,,(GenBank) putative plasmid-related protein,
+PMI3092,649.670927386811,1.85543584099666,1.8166433540125803e-08,,(GenBank) putative fimbrial subunit,
+PMI0278,36435.0202647502,1.8530264150153402,2.9698447870801004e-06,zapB,(GenBank) Type I secretion ATP-binding protein,pmr02010  ABC transporters
+PMI2845,213.311826071041,1.84303048383361,0.00123662049504842,dppC,"(GenBank) dipeptide ABC transporter, permease protein",pmr02010  ABC transporters
+PMI0799,1580.6335916852,1.8427980657568601,6.98794943179362e-07,cbpA,(GenBank) curved DNA-binding protein,
+PMI0622,161.412285275902,1.84083645542124,0.00019280711131911598,,(GenBank) putative transglycosylase associated protein,
+PMI2993,20098.0139927415,1.82518186662363,0.000129471122959358,,(GenBank) putative membrane protein,
+PMI3698,171.793809326161,1.82106696368477,4.1600710442039797e-07,,(GenBank) putative membrane protein,
+PMI2232,160.549184247449,1.81593945901079,5.85360845574349e-06,,(GenBank) TetR-family transcriptional regulator,
+PMI0024,1556.68950389499,1.8030110782728899,4.3789933499379906e-08,dkgA,"(GenBank) 2,5-diketo-D-gluconic acid reductase A",
+PMI2222,178.19539242526,1.8006986579618898,0.000885861850973932,,(GenBank) fimbrial subunit,
+PMI1473,2583.46636224374,1.7924840911486202,0.000639771797776954,oppC,"(GenBank) oligopeptide ABC transporter, permease protein","pmr01501  beta-Lactam resistance, pmr02010  ABC transporters, pmr02024  Quorum sensing"
+PMI1931,1939.7494456189602,1.7822472089963899,0.00011203376126574099,mqo,(GenBank) malate:quinone oxidoreductase,"pmr00020  Citrate cycle (TCA cycle), pmr00620  Pyruvate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism"
+PMI1516,42.3176275983493,1.76575681190502,3.64775037068665e-06,,(GenBank) hypothetical protein,
+PMI0805,1978.46069954655,1.7610704206582901,6.26582334136467e-06,,(GenBank) putative exported protein,
+PMI2813,7836.20975240616,1.7605423570771501,5.89230340005343e-06,aer,(GenBank) aerotaxis receptor,"pmr02020  Two-component system, pmr02030  Bacterial chemotaxis"
+PMI2189,232.566259939457,1.74306651771721,7.007549824494701e-06,cscK,(GenBank) fructokinase,"pmr00051  Fructose and mannose metabolism, pmr00500  Starch and sucrose metabolism, pmr00520  Amino sugar and nucleotide sugar metabolism, pmr01100  Metabolic pathways"
+PMI1625,84.7031963664668,1.7407364180175702,0.00233337253801821,,(GenBank) hypothetical protein,
+PMI2844,545.438864222813,1.7373761172158302,0.0029948181571235197,dppD,"(GenBank) dipeptide ABC transporter, ATP-binding protein",pmr02010  ABC transporters
+PMI0434,829.147020721922,1.72638563251071,0.0024345752170151103,gltL,"(GenBank) glutamate/aspartate ABC transporter, ATP-binding protein","pmr02010  ABC transporters, pmr02020  Two-component system"
+fig|529507.6.peg.3602,10.3252673281575,1.72272629098788,0.00743607800825712,,,
+PMI2809,16171.8844627128,1.7195787065045403,0.00612036061822832,,(GenBank) methyl-accepting chemotaxis protein,
+PMI0556,675.126172337885,1.7193892556771002,6.33298569744797e-08,,(GenBank) conserved hypothetical protein,
+PMI3679,2722.1463282001,1.7186229504131698,2.6830054421714298e-06,elbB,(GenBank) enhancing lycopene biosynthesis protein 2,
+PMI2510,87.7597747642346,1.70607917530944,5.887998076546949e-05,,(GenBank) radical SAM superfamily protein,
+PMI0667,900.291652460289,1.7039531755874398,1.3831525176343199e-08,,(GenBank) putative exported protein,
+PMI2190,1250.39924356044,1.69462618374998,1.85428576491396e-06,cscA,(GenBank) sucrose-6-phosphate hydrolase (sucrase) (invertase),"pmr00052  Galactose metabolism, pmr00500  Starch and sucrose metabolism, pmr01100  Metabolic pathways"
+PMI2365,152.068980226879,1.69292419131103,4.0268402105571796e-05,,(GenBank) putative demethylmenaquinone methyltransferase,
+PMI0800,81.71894261291409,1.68580200648428,0.000358322879694722,cbpM,(GenBank) chaperone-modulator protein,
+PMI2843,707.1407939225909,1.6782014252171902,0.008825681777449659,dppF,"(GenBank) dipeptide ABC transporter, ATP-binding protein",pmr02010  ABC transporters
+PMI2740,1464.1673011796202,1.6606874826765001,7.5394857293859495e-06,qor,(GenBank) quinone oxidoreductase,
+PMI3383,2605.28426960534,1.6602260662152202,3.01650010783377e-10,gabD,(GenBank) succinate-semialdehyde dehydrogenase,"pmr00250  Alanine, aspartate and glutamate metabolism, pmr00310  Lysine degradation, pmr00350  Tyrosine metabolism, pmr00650  Butanoate metabolism, pmr00760  Nicotinate and nicotinamide metabolism, pmr01100  Metabolic pathways, pmr01120  Microbial metabolism in diverse environments"
+PMI2367,171.107682393286,1.65700971502301,4.7796586163725e-06,,(GenBank) conserved hypothetical protein,
+PMI2402,868.171076074608,1.65690472112467,1.11909014947355e-05,dhaK,"(GenBank) PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit","pmr00561  Glycerolipid metabolism, pmr01100  Metabolic pathways"
+PMI0250,14255.919024421,1.65453142713306,0.000247022021728385,,(GenBank) putative lipoprotein,
+PMI3003,29.296870295840602,1.65369009615116,0.0083571620939941,,(GenBank) fimbrial operon regulator,
+PMI2827,46.14800482686171,1.6519922357660402,0.00125129462362432,,(GenBank) putative membrane protein,
+PMI3386,2330.98639476921,1.6495181017413203,1.82753676759323e-08,,(GenBank) putative exported protein,
+PMI3230,1468.9946537756,1.63295491966901,9.86675369811859e-09,proP,(GenBank) proline/betaine transporter (MFS-family transporter),
+PMI1472,4735.50100273977,1.62715635389329,0.0031885285040178604,oppD,"(GenBank) oligopeptide ABC transporter, ATP-binding protein","pmr01501  beta-Lactam resistance, pmr02010  ABC transporters, pmr02024  Quorum sensing"
+PMI0207,2396.06173772859,1.62524411828159,5.833665642675079e-05,hcp,(GenBank) conserved hypothetical protein (putative hemolysin co-regulated protein),pmr03070  Bacterial secretion system
+PMI0069,84.59562211384309,1.62003364273328,0.000108587274273613,,(GenBank) putative aldehyde ferredoxin oxidoreductase,
+PMI0588,250.440078878877,1.60922749034352,8.07709830866413e-08,pnuC,(GenBank) putative nicotinamide mononucleotide transport protein,
+PMI0481,7.357633412285451,1.6092096376944098,0.023616485344497003,,(GenBank) putative phage regulatory protein,
+PMI1377,412.85927636309196,1.60782984493092,1.16065183994336e-05,pspF,(GenBank) psp operon transcriptional activator,
+PMI0070,10.407938526057,1.59689322822087,0.0140907107278553,,"(GenBank) putative oxidoreductase, Fe-S subunit",
+PMI3699,1322.72908182726,1.59134973547675,0.00026265421172625,,(GenBank) putative membrane protein,
+PMI3229,1265.43747229748,1.5870942911247803,6.342670999425841e-08,phrB,(GenBank) deoxyribodipyrimidine photolyase,
+PMI2410,52.5400204226806,1.5853497103506002,1.6561358214117998e-05,,(GenBank) zinc-finger,
+PMI3235,998.570170270543,1.5853457266986,0.000923709959289726,poxB,(GenBank) pyruvate dehydrogenase [cytochrome],pmr00620  Pyruvate metabolism
+PMI2223,3144.45318214031,1.5846624456580702,0.00847463108141707,pmpA,(GenBank) fimbrial subunit,
+PMI0488,660.493642524242,1.5808394425263899,2.79301039546362e-05,,(GenBank) putative phage membrane protein,
+PMI2267,1428.89368433423,1.5785887218539099,1.8434742018507103e-07,tilS,(GenBank) tRNA(Ile)-lysidine synthase,
+PMI3601,402.824467229638,1.5606342211596498,4.3409588826250103e-07,,(GenBank) putative membrane protein,
+PMI1118,11026.6858650553,1.55925267195693,1.92601365295945e-05,,(GenBank) Rhs-family protein,pmr03070  Bacterial secretion system
+PMI1814,63.200696965493606,1.55791517517333,2.65970031431904e-05,phsA,(GenBank) thiosulfate reductase precursor,"pmr00920  Sulfur metabolism, pmr01120  Microbial metabolism in diverse environments"
+fig|529507.6.peg.1094,6.92483393143376,1.5437815463978801,0.0252299444700271,,,
+PMI2994,1987.3543076708302,1.5378321968141002,0.00034655313637835803,,(GenBank) putative membrane protein,
+PMIP08,1555.26385365054,1.5360527053711497,0.0110063212247347,pilX2,(GenBank) putative conjugal transfer protein,
+PMI3701,3852.1536396449296,1.5345858656984401,0.000392791536996541,,(GenBank) putative sodium:dicarboxylate symporter,
+PMI1468,17.513719073455402,1.53417236960989,0.0342359679758757,,(GenBank) fimbrial subunit,
+PMI3001,26.190479207114397,1.5335969901962798,0.0160083835758334,,(GenBank) putative fimbrial protein,
+PMI0152,758.7327573429441,1.52551126339147,0.000278568904947073,,(GenBank) conserved hypothetical protein,
+PMI0467,46.3874385897744,1.52406437890097,0.0017618865771892398,recT,(GenBank) phage DNA recombinase,
+PMI1930,635.709278688494,1.5173604705932502,0.00041634445782567003,,(GenBank) conserved hypothetical protein,
+PMI2217,122.75220612048099,1.51354255712426,0.00814298461579115,,(GenBank) putative fimbrial subunit,
+PMI1119,6108.03716117614,1.508385058488,4.6680064422525e-05,,(GenBank) conserved hypothetical protein,
+PMI2996,936.003484068264,1.50578914224215,0.0008988437655891369,,(GenBank) putative exported protein,
+PMI3200,4629.89741771143,1.50014831186842,5.25131572338198e-05,cpxP,(GenBank) periplasmic protein,
+PMI2172,246.031485028999,1.4948571041692098,1.16065183994336e-05,cueR,(GenBank) MerR-family transcriptional regulator (copper efflux regulator),
+fig|529507.6.peg.416,28.795779806643502,1.49164340143198,0.00123662049504842,,,
+PMI1523,1416.4315419178602,1.4916265761647098,1.13877747643345e-05,,(GenBank) putative nitroreductase,
+PMI0251,398.185225096275,1.4905486601715499,5.48498216323883e-07,,(GenBank) putative membrane protein,
+PMI1701,608.934545356521,1.4846996724629298,0.00129640790642413,,(GenBank) putative D-alanine aminotransferase,"pmr00310  Lysine degradation, pmr00330  Arginine and proline metabolism, pmr00360  Phenylalanine metabolism, pmr00472  D-Arginine and D-ornithine metabolism, pmr00473  D-Alanine metabolism, pmr01100  Metabolic pathways"
+PMI1391,9.53304025825364,1.47697332698257,0.0202188800391891,,(GenBank) conserved hypothetical protein,
+PMI0493,25.3243666671291,1.47521377571926,0.00412097397418608,,(GenBank) phage protein,
+fig|529507.6.peg.2069,158.448383483387,1.4748964960233402,0.00223146359331582,,,
+PMI1301,334.73221086864703,1.4717746086118701,8.09345328954905e-05,,(GenBank) putative membrane protein,
+PMI0522,153.403989259177,1.4647977062523299,0.0009252377915587891,,(GenBank) phage protein,
+PMI2038,2220.7646370162397,1.4587634983638302,2.1516706507375002e-11,,(GenBank) putative mechanosensitive ion channel protein,
+PMI2368,146.81794271658998,1.4539727366013602,5.6907543972511705e-05,aroH,(GenBank) putative phospho-2-dehydro-3-deoxyheptonate aldolase,"pmr00400  Phenylalanine, tyrosine and tryptophan biosynthesis, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01230  Biosynthesis of amino acids, pmr02024  Quorum sensing"
+PMI0480,12.5003898948345,1.4520412257726598,0.048349963499031,,(GenBank) putative phage regulatory protein,
+PMI0591,1180.17644639133,1.4518622744107899,0.000206805302293216,modF,(GenBank) putative molybdenum transport ATP-binding protein (photorepair protein),pmr02010  ABC transporters
+PMI3177,6764.544020777261,1.45175269824996,0.0044271327431757105,kbl,(GenBank) 2-amino-3-ketobutyrate coenzyme A ligase,"pmr00260  Glycine, serine and threonine metabolism"
+PMI3002,174.56451229220102,1.44997408450289,0.0173177516502224,,(GenBank) putative fimbrial protein,
+PMI2941,229.405480871165,1.4493335324600902,0.0128894654286538,,(GenBank) probable carbohydrate kinase,
+PMI1491,463.567318014303,1.4486242872015802,0.00286849403855581,,(GenBank) response regulator,
+PMI1679,922.5759145787981,1.44671784785896,7.1104313341317e-06,,(GenBank) conserved hypothetical protein,
+PMI2404,1577.72714813599,1.4439380980583998,5.22866512455055e-05,dhaM,"(GenBank) PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit [includes: phosphocarrier protein Hpr and phosphotransferase enzyme IIa component]","pmr00561  Glycerolipid metabolism, pmr01100  Metabolic pathways"
+PMI2221,1546.4228967876502,1.43509253144986,0.021898067948502,,(GenBank) fimbrial outer membrane usher protein,
+PMI1471,2455.17241177004,1.42742968038798,0.0142553965640586,oppF,"(GenBank) oligopeptide ABC transporter, ATP-binding protein","pmr01501  beta-Lactam resistance, pmr02010  ABC transporters, pmr02024  Quorum sensing"
+PMI1819,131.549778617069,1.42399771295284,0.00285161375411039,,(GenBank) putative short-chain dehydrogenase,
+PMI2562,45.647950368475,1.4237042338548798,0.000559511944322341,,(GenBank) hypothetical protein,
+PMI3009,5198.35169312706,1.4228737013738,6.40405351846129e-05,uspA,(GenBank) universal stress protein A,
+PMI0277,15732.0281741658,1.4226770451553101,0.000847802861405306,zapC,(GenBank) type I secretion protein,
+PMI3284,2742.43816502453,1.41890251148162,3.97026742105101e-07,mscL,(GenBank) large-conductance mechanosensitive channel,
+PMI2956,470.50308551282205,1.4187975506502801,7.23737968932177e-06,chbB,"(GenBank) N,N'-diacetylchitobiose-specific PTS system, EIIB component","pmr00500  Starch and sucrose metabolism, pmr02060  Phosphotransferase system (PTS)"
+PMI1451,2660.4956288973003,1.41245907847001,8.09029374871191e-06,uspG2,(GenBank) universal stress protein G,
+PMI0891,43340.1401591345,1.40955433518221,0.0045357703606750295,icd,(GenBank) isocitrate dehydrogenase [NADP],"pmr00020  Citrate cycle (TCA cycle), pmr00480  Glutathione metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01210  2-Oxocarboxylic acid metabolism, pmr01230  Biosynthesis of amino acids"
+PMI1932,155.561146654834,1.4047738677730601,0.00041988506810209704,,(GenBank) putative transporter,
+PMI0564,20406.7252157757,1.39321499552468,0.0105815933865973,gltA,(GenBank) citrate synthase GltA,"pmr00020  Citrate cycle (TCA cycle), pmr00630  Glyoxylate and dicarboxylate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01210  2-Oxocarboxylic acid metabolism, pmr01230  Biosynthesis of amino acids"
+PMI0457,31.7119399286905,1.3906052134923899,0.00452844196635781,,(GenBank) putative phage recombination protein,
+PMI1966,1381.3523354112801,1.38965668031497,0.0154592756424847,chrR,(GenBank) putative chromate reductase (NADPH-dependent FMN reductase),
+PMI3208,218.254470261828,1.3888238884349,3.6855634022289e-07,fpr,(GenBank) ferredoxin--NADP reductase,
+PMI0605,200.73548127289902,1.38600894142079,0.0222071688459029,bioC,(GenBank) biotin synthesis protein BioC,"pmr00780  Biotin metabolism, pmr01100  Metabolic pathways"
+PMI1469,152.47027717788401,1.38059852723308,0.0019361389259961899,,(GenBank) fimbrial subunit,
+PMI2049,16.966191710146102,1.37910731340287,0.00612036061822832,ppdD,(GenBank) prelipin peptidase dependent protein D,
+PMI3662,6191.26354375054,1.3685415943111003,0.0240761737609898,,(GenBank) conserved hypothetical protein,
+PMI2995,232.993977889879,1.36819982229909,0.0129674063535198,,(GenBank) conserved hypothetical protein,
+PMI1954,850.727739957036,1.36537356773489,0.00627089975822521,,(GenBank) universal stress protein,
+PMI2220,605.6651456147059,1.36173721310474,0.0362428446041883,,(GenBank) fimbrial chaperone protein,
+PMI2119,3826.8757624629498,1.3544624787129798,0.00408894496104989,,(GenBank) putative exported protein,
+PMI0463,21.064566482531102,1.35100232444409,0.0133856580978296,,(GenBank) putative phage protein,
+PMI0068,49.5738829331524,1.35044630479626,0.000147387785400463,,(GenBank) putative subunit of oxidoreductase,
+PMI1120,23685.872220509198,1.340994576219,0.0006406645724467639,,(GenBank) Rhs-family protein,
+PMI0770,106.817001842332,1.34020716001268,4.39708905084803e-05,,(GenBank) conserved hypothetical protein,
+PMI0750,11179.2175938691,1.33904213734086,0.0012834862137226,,(GenBank) conserved hypothetical protein,pmr03070  Bacterial secretion system
+PMI1270,423.19020378567706,1.3239445733502901,2.0798681793960603e-05,,(GenBank) conserved hypothetical protein,
+PMI1708,495.882099009061,1.3235660362089898,0.0013186564264204199,,(GenBank) conserved hypothetical protein,
+PMI0322,72.9692595115383,1.3182409408025801,0.00020288863643304098,,(GenBank) transposase,
+PMIP50,144.211725204903,1.31664854460399,0.008178254730184659,,(GenBank) conserved hypothetical protein,
+PMIP21,1159.30697857318,1.31563230236876,0.0102138407089899,,(GenBank) putative membrane protein,
+fig|529507.6.peg.306,24.3184231622574,1.3088186876793402,0.00777024844385298,,,
+PMI1302,838.662752946253,1.30840260049315,2.239851936413e-05,,(GenBank) putative oxidoreductase,"pmr00562  Inositol phosphate metabolism, pmr01120  Microbial metabolism in diverse environments"
+PMI0351,271.95734363903097,1.30733492348428,6.58803021001462e-06,,(GenBank) putative exported protein,
+PMI1509,3219.0431611507106,1.3007821096233798,0.00482997268125476,dadA,(GenBank) D-amino acid dehydrogenase small subunit,pmr00360  Phenylalanine metabolism
+PMI0850,156.072573015004,1.30047695410796,0.000654846516447569,,(GenBank) MFS-family transporter,
+PMI3359,123.59650826583099,1.30039094368804,0.000307751311692007,,(GenBank) putative antitoxin,
+PMI1094,2391.82841018506,1.2972853356243101,0.00289469203941778,,(GenBank) putative 2-hydroxyacid dehydrogenase,"pmr00260  Glycine, serine and threonine metabolism, pmr00620  Pyruvate metabolism, pmr00630  Glyoxylate and dicarboxylate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments"
+PMI2219,75.5894254908312,1.29689484820791,0.0257772515170021,,(GenBank) putative fimbrial protein,
+PMI0606,102.419287949256,1.29579393234073,0.0340440952727698,bioD,(GenBank) dethiobiotin synthetase,"pmr00780  Biotin metabolism, pmr01100  Metabolic pathways"
+PMI2403,386.694529269918,1.29128155644385,0.00257855232040649,dhaL,"(GenBank) PTS-dependent dihydroxyacetone kinase, ADP-binding subunit","pmr00561  Glycerolipid metabolism, pmr01100  Metabolic pathways"
+PMI0051,671.720289906017,1.28782254008902,8.05841004045114e-06,phoB,(GenBank) phosphate regulon transcriptional regulator (two-component response regulator),pmr02020  Two-component system
+PMI3697,27.3143800318323,1.28748121762999,0.0199031510298865,,(GenBank) conserved hypothetical protein,
+PMI0847,3624.79339737488,1.2863744552268201,0.0036386905515027397,dld,(GenBank) D-lactate dehydrogenase,"pmr00620  Pyruvate metabolism, pmr01120  Microbial metabolism in diverse environments"
+PMI2215,701.485462703311,1.28370818673275,0.0215769551680115,,(GenBank) putative peroxidase,
+PMI0410,442.353932904356,1.28328707030503,5.14086586383377e-09,proX,"(GenBank) putative glycine betaine/L-proline ABC transporter, substrate-binding protein",pmr02010  ABC transporters
+PMI1737,504.219830649668,1.2817123254295901,0.000142991897267533,,(GenBank) putative lipoprotein,
+PMI0028,878.030721602314,1.264260528162,0.000689815643887775,metC,(GenBank) cystathionine beta-lyase,"pmr00270  Cysteine and methionine metabolism, pmr00450  Selenocompound metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01230  Biosynthesis of amino acids"
+PMI2218,167.487843386336,1.2623534969886798,0.030341598907608996,,(GenBank) fimbrial subunit,
+PMI0208,1678.2626818965,1.2618971552262201,0.00439378568724715,,(GenBank) VgrG-like protein,pmr03070  Bacterial secretion system
+PMI1057,44.968641656984396,1.26150985378513,0.000803229293499186,,(GenBank) putative membrane protein,
+PMI3358,62.293957231631495,1.25743536472175,0.0135855080647372,,(GenBank) putative plasmid stabilization protein,
+PMI0733,5074.49627722807,1.2571366457609099,0.0020551789784425,,(GenBank) conserved hypothetical protein,
+PMI1466,151.937382456798,1.25699289008336,0.00434770915893624,,(GenBank) fimbrial outer membrane usher protein,
+PMI2138,62.630392735994604,1.25124411184891,0.0018390168661912899,agaV,"(GenBank) putative N-acetylgalactosamine-specific PTS system, EIIB component","pmr00052  Galactose metabolism, pmr02060  Phosphotransferase system (PTS)"
+PMI3508,598.283045797051,1.25094454122053,0.000459698310984776,,(GenBank) putative transcriptional regulator,
+PMI0151,494.925962016319,1.24554521450954,0.0028760991028733,,(GenBank) conserved hypothetical protein,
+PMI2142,53.1222695384797,1.24418467963411,0.00530951600942681,aslB,(GenBank) Radical SAM superfamily protein (probable arylsulfatase-activating protein),
+PMIP07,6491.67749813603,1.24236889707083,0.0202181860425468,pilX1,(GenBank) putative transglycosylase,pmr03070  Bacterial secretion system
+fig|529507.6.peg.2285,96.4474165343765,1.23925711966025,0.00038615027508539303,,,
+PMI0025,1478.22287508272,1.23579852142079,1.16065183994336e-05,,(GenBank) iron-containing alcohol dehydrogenase,pmr00640  Propanoate metabolism
+PMI1996,65.5077295029096,1.2312885361613501,0.004020800202002021,,(GenBank) putative membrane protein,
+PMI2893,669.065736512885,1.22905984314876,0.00014371483660248702,pstS,"(GenBank) phosphate ABC transporter, substrate-binding protein","pmr02010  ABC transporters, pmr02020  Two-component system"
+PMI1421,15046.4800878589,1.22749337300245,0.0354739773846249,ppsA,(GenBank) phosphoenolpyruvate synthase,"pmr00620  Pyruvate metabolism, pmr00680  Methane metabolism, pmr01100  Metabolic pathways, pmr01120  Microbial metabolism in diverse environments, pmr01200  Carbon metabolism"
+PMI2812,1205.23320883643,1.2272181755126799,0.006135761354668729,,(GenBank) conserved hypothetical protein,
+PMI1230,16.7995657387257,1.2248274315094698,0.0154478446045052,,(GenBank) putative membrane protein,
+PMI0142,1655.82814813099,1.22318704280224,0.00231634306626715,cstA,(GenBank) carbon starvation protein,
+PMI0276,17667.483114749,1.2224970858868,0.00281934796236878,zapD,(GenBank) type I secretion outer membrane protein,
+PMI1348,235.613844599802,1.21804740327003,0.00010195375151764399,trpA,(GenBank) tryptophan synthase alpha chain,"pmr00260  Glycine, serine and threonine metabolism, pmr00400  Phenylalanine, tyrosine and tryptophan biosynthesis, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01230  Biosynthesis of amino acids"
+PMI2366,292.26276446552004,1.21707856983235,0.00125670461012036,,(GenBank) conserved hypothetical protein,
+fig|529507.6.peg.3424,22.3726618696087,1.21514838275924,0.0103055122494138,,,
+PMI3470,1562.98187877246,1.2082820062845,0.0019349625351887199,,(GenBank) putative phage protein,
+PMI2206,215.98573509856098,1.20435486046364,0.00948148034119132,,(GenBank) putative sodium:sulfate symporter,
+PMIP52,25.5238389797617,1.20316257641025,0.0193044915569863,,(GenBank) hypothetical protein,
+PMI0482,27.3914964177239,1.2029778050989,0.0120413672752247,,(GenBank) putative phage replication protein,
+PMI3178,4219.90595429499,1.20016738576297,0.0193044915569863,tdh,(GenBank) L-threonine 3-dehydrogenase,"pmr00260  Glycine, serine and threonine metabolism"
+PMI0468,66.15854898901439,1.19955379076316,0.0272457183165766,,(GenBank) putative phage-related exonuclease,
+PMIP20,374.43725989083197,1.19553892009954,0.0467531844649557,,(GenBank) putative membrane protein,
+PMI1677,438.98786050421603,1.1938036969116699,5.3420616224231e-06,,(GenBank) putative membrane protein,
+PMI2762,276.654391242412,1.1728351856676202,2.51056378278084e-05,aceK,(GenBank) isocitrate dehydrogenase kinase/phosphatase,
+PMI2027,171.85461322275398,1.16508788758784,0.000138581451424701,,(GenBank) putative 5-formyltetrahydrofolate cyclo ligase,"pmr00670  One carbon pool by folate, pmr01100  Metabolic pathways"
+PMI3497,10348.4517550738,1.16490657660097,0.000801043258026071,,(GenBank) putative phage-related protein,
+PMI2118,3313.70376432281,1.16435079057595,0.00344383268960629,,(GenBank) putative exported carbon-nitrogen hydrolase,"pmr00121  Secondary bile acid biosynthesis, pmr01100  Metabolic pathways"
+PMI0571,22772.0913590707,1.16270759546486,0.0364240491950319,sucC,(GenBank) succinyl-CoA synthetase beta chain,"pmr00020  Citrate cycle (TCA cycle), pmr00640  Propanoate metabolism, pmr00660  C5-Branched dibasic acid metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism"
+PMI1274,77.94102211546759,1.16017017047552,0.0017861610548735,,(GenBank) putative Na+/H+ antiporter,
+PMI0670,2326.88565826883,1.15739388435647,0.0018351694084630399,fhs,(GenBank) formate--tetrahydrofolate ligase,"pmr00670  One carbon pool by folate, pmr01100  Metabolic pathways, pmr01120  Microbial metabolism in diverse environments, pmr01200  Carbon metabolism"
+PMI2540,628.9481633023111,1.1571654958817499,1.1194012389446199e-05,,(GenBank) conserved hypothetical protein,
+PMI3593,698.7941088512559,1.15647419138208,4.49684763771044e-06,glpB,(GenBank) anaerobic glycerol-3-phosphate dehydrogenase subunit B,"pmr00564  Glycerophospholipid metabolism, pmr01110  Biosynthesis of secondary metabolites"
+PMI3454,45.213108457176894,1.1542156437840099,0.0017720801336441301,pyrI,(GenBank) aspartate carbamoyltransferase regulatory subunit,"pmr00240  Pyrimidine metabolism, pmr00250  Alanine, aspartate and glutamate metabolism, pmr01100  Metabolic pathways"
+PMI1204,61.7798404498077,1.15347828105473,0.00133307102144334,,(GenBank) putative dimethyl sulfoxide reductase chain A precursor,pmr00920  Sulfur metabolism
+PMI0989,535.786427677971,1.1497521584427701,0.00044601257857913206,,(GenBank) conserved hypothetical protein,
+PMI2870,940.484614691283,1.14536551187308,1.64418114315367e-06,,(GenBank) putative exported protein,
+PMI2839,638.904638544209,1.143442471647,0.0135855080647372,,(GenBank) putative tautomerase,"pmr00362  Benzoate degradation, pmr01100  Metabolic pathways, pmr01120  Microbial metabolism in diverse environments, pmr01220  Degradation of aromatic compounds"
+PMI3592,728.230059792437,1.14153331339919,0.0007300314565190809,glpA,(GenBank) anaerobic glycerol-3-phosphate dehydrogenase subunit A,"pmr00564  Glycerophospholipid metabolism, pmr01110  Biosynthesis of secondary metabolites"
+PMI2216,306.08274554645,1.14138841085291,0.0284125609472857,,(GenBank) putative fimbrial adhesin,
+PMI1234,444.567914534855,1.13975106156604,0.000221941566216764,,(GenBank) pyridoxal-phosphate dependent,
+PMI1283,474.43651927039804,1.1297322073404898,0.0244879620544359,,(GenBank) putative exported protein,
+PMI0659,495.60591636483,1.1273267695738602,0.000923709959289726,hisF,(GenBank) imidazole glycerol phosphate synthase subunit HisF,"pmr00340  Histidine metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01230  Biosynthesis of amino acids"
+PMI1168,236.934743553245,1.1269682551483,3.2622337156248104e-05,minE,(GenBank) cell division topological specificity factor,
+PMI0664,515.402866777933,1.1263541796243501,0.000559511944322341,hisD,(GenBank) histidinol dehydrogenase,"pmr00340  Histidine metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01230  Biosynthesis of amino acids"
+PMI0784,302.07434399344504,1.12609563506226,7.045163649310561e-06,,(GenBank) conserved hypothetical protein,
+PMI0751,16438.7256664474,1.1227211359195401,0.0070518954878789,,(GenBank) putative RHS accessory genetic element (VgrG-like protein),
+PMI3630,518.472228604688,1.1189149102055802,0.00040552441475370603,,(GenBank) possible zinc-binding dehydrogenase,"pmr00640  Propanoate metabolism, pmr01100  Metabolic pathways"
+PMI3080,95.6725452789955,1.11372687389913,0.0128810936865648,,(GenBank) putative amidohydrolase/metallopeptidase,
+PMI3294,550.641860939484,1.11090721789917,0.0007254594282565679,,(GenBank) putative transferase,
+fig|529507.6.peg.1042,10514.9055344805,1.1103145853267098,0.023173035660448996,,,
+PMI0052,284.140409494684,1.10627152847852,0.000474860806043171,phoR,(GenBank) phosphate regulon sensor protein (two-component histidine kinase),pmr02020  Two-component system
+PMI3674,143.989178787621,1.10320073530959,0.00254622826917528,,(GenBank) probable aminohydrolase,
+PMI3455,346.890445831203,1.0950323400215,4.39708905084803e-05,pyrB,(GenBank) aspartate carbamoyltransferase catalytic subunit,"pmr00240  Pyrimidine metabolism, pmr00250  Alanine, aspartate and glutamate metabolism, pmr01100  Metabolic pathways"
+PMI3602,144.09154537965202,1.09180299347886,2.65970031431904e-05,,(GenBank) putative exported protein,
+PMI2139,106.981996542101,1.09154308426972,0.0137641499892054,agaS,(GenBank) putative tagatose-6-phosphate ketose/aldose isomerase,
+PMI0407,15293.111165640401,1.08684156509652,0.0011324550670825,emrR,(GenBank) MarR-family transcriptional regulator,
+PMI1105,371.92716091125703,1.0837740464900898,0.0163535393497686,cutC,(GenBank) copper homeostasis protein,
+PMI3675,79.9062844218668,1.08299962770775,0.00498878400229485,,(GenBank) putative C4-dicarboxylate transporter,
+PMI1273,343.60087787493995,1.08114892290966,0.00570015557791337,xylA,(GenBank) xylose isomerase,"pmr00040  Pentose and glucuronate interconversions, pmr00051  Fructose and mannose metabolism, pmr01100  Metabolic pathways"
+PMI0992,155.032270842363,1.07907174161637,0.000126378077281072,,(GenBank) putative exported protein,
+PMI1316,204.63889445729802,1.076649443759,4.18027003311205e-05,pgpB,(GenBank) phosphatidylglycerophosphatase B,"pmr00564  Glycerophospholipid metabolism, pmr01100  Metabolic pathways"
+PMI0730,650.681360431587,1.07602968046976,0.00612036061822832,,(GenBank) conserved hypothetical protein,
+PMI1350,2722.4596915745396,1.0693771155039,0.0163535393497686,ompW,(GenBank) outer membrane protein,
+PMI2663,295.148616054957,1.06016442521899,0.000276596561713331,,(GenBank) putative regulatory protein,
+PMI3647,884.0673940200489,1.05903407348798,2.7771643320802197e-05,,(GenBank) probable sigma(54) modulation protein,
+PMI3231,1270.63451773739,1.0520218831341,0.000216801266591948,cysB,(GenBank) cys regulon transcriptional activator (LysR-family transcriptional regulator),
+PMI1995,3870.7142599146996,1.0466940479615099,0.00404290264661069,,(GenBank) conserved hypothetical protein,
+PMI0752,7776.22227405674,1.0459668195724598,0.0120228166298718,,(GenBank) conserved hypothetical protein,
+PMI1364,504.078963454258,1.04545367999303,0.0096988644457101,,(GenBank) putative transport protein,
+PMI1969,552.543244072144,1.0433614053206401,0.00140600408370197,,(GenBank) putative membrane protein,
+PMI1508,1004.52904900696,1.04206937793888,0.0257780100719445,dadB,"(GenBank) alanine racemase, catabolic","pmr00473  D-Alanine metabolism, pmr01100  Metabolic pathways, pmr01502  Vancomycin resistance"
+PMI2096,169.83039290908502,1.03289949770121,0.00619781956402782,,(GenBank) putative membrane protein,
+PMI1921,64.9212108295256,1.02691258223172,0.00196747475992669,,(GenBank) putative exported protein,
+PMI3225,404.525552083358,1.02439034512641,0.000627187785495106,,(GenBank) putative membrane protein,
+PMI0209,598.46440291401,1.0214189237018398,0.0159180572243176,,(GenBank) conserved hypothetical protein,
+PMI2547,909.943884887304,1.02099830897817,0.0049094173650480605,dcuA,(GenBank) anaerobic C4-dicarboxylate transporter,
+PMI0662,959.573475309363,1.0195222105646,0.000771917464107507,hisB,(GenBank) histidine biosynthesis bifunctional protein [includes: histidinol-phosphatase and imidazoleglycerol-phosphate dehydratase],"pmr00340  Histidine metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01230  Biosynthesis of amino acids"
+PMI1106,112.642718544214,1.01740855734372,0.0102880389769307,,(GenBank) putative lipoprotein,
+PMI1264,527.44872595476,1.0118002322042499,0.00502840688097635,,(GenBank) putative HlyD-family secretion protein (putative multidrug resistance protein),
+PMI2758,1420.12507491109,1.01092569110145,0.000197675479600158,metH,(GenBank) methionine synthase (5-methyltetrahydrofolate--homocysteine methyltransferase),"pmr00270  Cysteine and methionine metabolism, pmr00450  Selenocompound metabolism, pmr00670  One carbon pool by folate, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01230  Biosynthesis of amino acids"
+PMI1734,8792.90318965174,-1.00380833585394,0.000840043462631782,nrdA,(GenBank) ribonucleoside-diphosphate reductase 1 alpha chain,"pmr00230  Purine metabolism, pmr00240  Pyrimidine metabolism, pmr01100  Metabolic pathways"
+PMI0653,3514.99153248323,-1.0046162976796,0.00692202987383558,,(GenBank) probable transporter,
+PMI2262,281.871763782403,-1.00596915990245,0.0067137416805741,rcsF,(GenBank) regulator of colanic acid capsule synthesis,pmr02020  Two-component system
+PMI2862,2543.93293414356,-1.0085144736856702,0.0059221382615825295,gmk,(GenBank) guanylate kinase,"pmr00230  Purine metabolism, pmr01100  Metabolic pathways"
+PMI2854,2273.26532968575,-1.00943719263258,0.0042764426243485,glyQ,(GenBank) glycyl-tRNA synthetase alpha subunit,pmr00970  Aminoacyl-tRNA biosynthesis
+PMI1693,422.153174938032,-1.0123349680615101,0.0007872406593440871,,(GenBank) putative acetyltransferase,
+PMI0083,1295.2473930444999,-1.0152029951739,0.00564991918494451,nusB,(GenBank) N utilization substance protein B,
+PMI1976,36.682241404085104,-1.01590991723726,0.00891912587230542,,(GenBank) probable major tail sheath protein,
+PMI1164,858.902091995346,-1.01884163948613,0.00817676556317377,rpf,(GenBank) resuscitation-promoting factor (putative glycoprotease),
+PMI0130,1607.33974344327,-1.01925175225302,0.0009923925985381788,,(GenBank) conserved hypothetical protein,
+PMI3245,706.091210611232,-1.02006838198895,0.00032474860102207204,trmA,(GenBank) tRNA (uracil-5)-methyltransferase,
+PMI2420,1986.3940157909801,-1.02149593736752,0.0009587950801684891,,(GenBank) patatin-like phospholipase,
+PMI2960,973.802353634131,-1.02507684727333,0.000345589681447287,,"(GenBank) putative iron ABC transporter, ATP-binding protein",pmr02010  ABC transporters
+PMI3510,95.37156532687179,-1.0254576281741101,0.008277325733034479,,(GenBank) conserved hypothetical protein,pmr01501  beta-Lactam resistance
+PMI2346,511.04135498937995,-1.02580683033562,8.71269137039391e-05,,(GenBank) conserved hypothetical protein,
+PMI1795,8211.58034947553,-1.0290634410123298,0.00406580522126626,fabB,(GenBank) 3-oxoacyl-[acyl-carrier-protein] synthase I,"pmr00061  Fatty acid biosynthesis, pmr00780  Biotin metabolism, pmr01100  Metabolic pathways, pmr01212  Fatty acid metabolism"
+PMI3065,6369.83539992107,-1.03008071244563,5.2419041106817996e-05,atpC,(GenBank) ATP synthase epsilon chain,"pmr00190  Oxidative phosphorylation, pmr01100  Metabolic pathways"
+PMI0901,52.41400663775829,-1.0332207619751,0.0243145084774798,,(GenBank) prophage protein,
+PMI1629,1712.7545804845902,-1.03335677452236,0.00552236835813725,fliE,(GenBank) flagellar hook-basal body complex protein,pmr02040  Flagellar assembly
+PMI2053,1335.5316985772502,-1.04051238848175,0.000330730092640331,,(GenBank) conserved hypothetical protein,
+PMI1649,20174.3660392837,-1.04082036582258,0.000819781941212887,flgG,(GenBank) flagellar basal-body rod protein (distal rod protein),pmr02040  Flagellar assembly
+PMI2807,1911.90182979613,-1.04122703283203,5.8676675847457e-05,,(GenBank) ABC transporter ATP-binding protein,
+PMI1728,120.024238701924,-1.04553711486044,0.022848060371297003,,(GenBank) putative tryptophanyl-tRNA synthetase,pmr00970  Aminoacyl-tRNA biosynthesis
+PMI0424,911.306292082585,-1.04829853122879,2.7771643320802197e-05,rlpA,(GenBank) rare lipoprotein A precursor,
+PMI2739,1242.91566323549,-1.0501777905215501,0.00231634306626715,dusA,(GenBank) tRNA-dihydrouridine synthase A,
+PMI3232,576.7230884397329,-1.05096430499343,3.8767440461258704e-05,,(GenBank) putative amidohydrolase/metallopeptidase,
+PMI2046,20837.4361885012,-1.0528945654659,0.0133040950689102,aceE,(GenBank) pyruvate dehydrogenase E1 component,"pmr00010  Glycolysis / Gluconeogenesis, pmr00020  Citrate cycle (TCA cycle), pmr00620  Pyruvate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism"
+PMI3629,12553.8729279188,-1.05362684138538,0.00452844196635781,aroQ,(GenBank) 3-dehydroquinate dehydratase,"pmr00400  Phenylalanine, tyrosine and tryptophan biosynthesis, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01230  Biosynthesis of amino acids"
+PMI2369,769.002329018821,-1.05378793279136,0.000140615133809802,gcp,(GenBank) O-sialoglycoprotein endopeptidase,
+PMI1786,1327.5109816472802,-1.05471591747161,0.00163537602391509,folC,(GenBank) FolC bifunctional protein [includes: folylpolyglutamate synthase and dihydrofolate synthase],"pmr00790  Folate biosynthesis, pmr01100  Metabolic pathways"
+PMI1550,208.04224091837503,-1.05704446545043,0.0375225535690817,,(GenBank) TonB-like protein,
+PMI1256,91.6706850428731,-1.06017222997306,0.0137641499892054,,(GenBank) hypothetical protein,
+PMI0012,1053.60441939046,-1.0618332438951399,3.70001624438078e-06,nhaR,(GenBank) transcriptional activator protein NhaR,
+PMI0672,2201.86287792824,-1.06394191638774,0.00439378568724715,sdaC,(GenBank) serine transporter,
+PMI3006,405.102456116746,-1.06471775114132,0.0005806432437072861,,(GenBank) conserved hypothetical protein,
+PMI2294,345.20249261936203,-1.0670437506071,0.013989458044268998,,(GenBank) conserved hypothetical protein,
+PMI0829,485.76261365182404,-1.07252487926736,0.005039193167817729,bcr,(GenBank) bicyclomycin resistance protein (sulfonamide resistance protein) (MFS-family transporter),
+PMI1037,1843.11569917975,-1.0811048043557199,0.00044828982927914003,rplT,(GenBank) 50S ribosomal protein L20,pmr03010  Ribosome
+PMI3715,1143.84813509987,-1.0829923627503801,3.1460941692722804e-05,,(GenBank) conserved hypothetical protein,
+PMI2494,144.719501467772,-1.08306986801455,0.00552236835813725,rimI,(GenBank) ribosomal-protein-alanine acetyltransferase,
+PMI1709,16.7766959795267,-1.08524429345514,0.0336670909232973,,(GenBank) putative membrane protein,
+PMI2476,104.65077718591101,-1.0864821193877,0.0298755282647549,,(GenBank) putative plasmid conjugative relaxase,
+PMI3011,2291.41108508665,-1.08939641738933,0.0168808591553064,pitA,(GenBank) low-affinity inorganic phosphate transporter,
+PMI3633,306.593224907469,-1.09054855150488,0.00653726033879927,mreD,(GenBank) rod shape-determining protein,
+PMI2735,1272.2045696587402,-1.09066761793219,0.000458725665532755,potC,"(GenBank) spermidine/putrescine ABC transporter, permease protein",pmr02010  ABC transporters
+PMI1609,255.481960189397,-1.09176103933107,0.00502840688097635,rrmA,(GenBank) ribosomal RNA large subunit methyltransferase A,
+PMI2157,300.1950790344,-1.0948894512276999,0.0101301568176854,fruK,(GenBank) 1-phosphofructokinase,pmr00051  Fructose and mannose metabolism
+PMI3181,1703.60747309542,-1.09533558573674,0.000436701840989996,,(GenBank) conserved hypothetical protein,
+PMI2903,26.7812448893369,-1.09537304742389,0.0145173853877637,,(GenBank) putative membrane protein,
+PMI1630,12162.518619,-1.0965506132676,0.000371511655157427,fliF,(GenBank) flagellar M-ring protein,pmr02040  Flagellar assembly
+fig|529507.6.peg.3590,21.8400531776751,-1.09683271744883,0.0182765600633901,,,
+PMI3142,2886.78295077415,-1.0983999961301898,5.79890940282592e-05,,(GenBank) DNA modification methyltransferase,
+PMI2971,295.234423433615,-1.0993719907759798,5.0624029484355995e-06,,(GenBank) putative surface polysaccharide modification acyltransferase,
+PMI1639,1383.9031638081,-1.1012691967727,6.65708692944704e-05,fliO,(GenBank) flagellar protein,pmr02040  Flagellar assembly
+PMI1043,9152.5549982892,-1.10177483626164,0.00107475612334613,arnB,(GenBank) UDP-4-amino-4-deoxy-l-arabinose--oxoglutarate aminotransferase,"pmr00520  Amino sugar and nucleotide sugar metabolism, pmr01503  Cationic antimicrobial peptide (CAMP) resistance, pmr02020  Two-component system"
+PMI1647,4334.023790548161,-1.10204417190699,4.14758361073808e-05,flgI,(GenBank) flagellar P-ring protein precursor (basal body P-ring protein),pmr02040  Flagellar assembly
+PMI2226,196.588555164687,-1.1020576073388402,0.000189784437203025,,"(GenBank) PTS system, IIabc component",pmr02060  Phosphotransferase system (PTS)
+PMI1961,3728.9910493908296,-1.1028017619505501,0.000120222380817522,ccm,(GenBank) putative membrane protein (Ccm1 protein),
+PMI2273,1540.5242152590802,-1.10350716601186,0.000991715097599996,lpxA,(GenBank) acyl-[acyl-carrier-protein]--UDP-N-acetylglucos amine O-acyltransferase,"pmr00540  Lipopolysaccharide biosynthesis, pmr01100  Metabolic pathways, pmr01503  Cationic antimicrobial peptide (CAMP) resistance"
+PMI2197,543.234164566348,-1.10938666421823,0.0300714976711137,,(GenBank) LysR-family transcriptional regulator,
+PMI0828,1472.73693421807,-1.11046755934103,0.00260757075323806,rsuA,(GenBank) ribosomal small subunit pseudouridine synthase A,
+PMI2833,1236.15873938843,-1.1114420034756398,7.09916588233398e-05,,(GenBank) putative endoribonuclease,
+PMI3632,638.836359962252,-1.11221119542824,0.000405483383882947,mreC,(GenBank) rod shape-determining protein,
+PMI2785,55091.6401598079,-1.11235912965207,0.000223641123425478,rpoB,"(GenBank) DNA-directed RNA polymerase, beta-subunit","pmr00230  Purine metabolism, pmr00240  Pyrimidine metabolism, pmr01100  Metabolic pathways, pmr03020  RNA polymerase"
+PMI1772,4582.1660348001205,-1.11450371578805,0.0143630980460713,pta,(GenBank) phosphate acetyltransferase,"pmr00430  Taurine and hypotaurine metabolism, pmr00620  Pyruvate metabolism, pmr00640  Propanoate metabolism, pmr00680  Methane metabolism, pmr01100  Metabolic pathways, pmr01120  Microbial metabolism in diverse environments, pmr01200  Carbon metabolism"
+PMI1648,6328.85649085953,-1.1186515868456102,0.000163681114234247,flgH,(GenBank) flagellar L-ring protein precursor,pmr02040  Flagellar assembly
+PMI3407,2486.6685704217102,-1.12379375065419,0.006137228013377211,,(GenBank) putative GTP-binding protein,
+PMI0425,594.343950570067,-1.12531223881034,7.09916588233398e-05,rodA,(GenBank) rod shape-determining protein,
+PMI2673,74.33815454447809,-1.12668442593626,0.0096988644457101,gntK,(GenBank) thermoresistant gluconokinase,"pmr00030  Pentose phosphate pathway, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism"
+PMI0419,83.6661759931736,-1.12746862525895,0.00108147286070375,crcB,(GenBank) putative membrane protein (protein CrcB),
+PMI0691,1527.1262074312199,-1.12949196094971,0.0230996719678199,infA,(GenBank) translation initiation factor IF-1,
+PMI0719,888.022209806745,-1.13258403300481,0.00057867435432341,lpxK,(GenBank) tetraacyldisaccharide 4'-kinase,"pmr00540  Lipopolysaccharide biosynthesis, pmr01100  Metabolic pathways"
+PMI3380,197.99335635305098,-1.1343879926799199,0.0015273842556527,,(GenBank) putative exported protein,
+PMI1650,19555.1947472347,-1.13622485143421,0.000220735967794562,flgF,(GenBank) flagellar basal-body rod protein,pmr02040  Flagellar assembly
+PMI2113,546.126707353375,-1.13651991765571,0.00011252905727271399,aldB,(GenBank) aldehyde dehydrogenase,
+PMI1862,1780.58127542338,-1.14300891050805,0.00036063217657166,,(GenBank) hypothetical tRNA/rRNA methyltransferase,
+PMI1340,1084.34284618123,-1.14399735923336,0.0091193065955415,rluB,(GenBank) ribosomal large subunit pseudouridine synthase B,
+PMI1020,23.504516915733102,-1.144187794352,0.0325662522095522,,(GenBank) putative membrane-bound metal-dependent hydrolase,
+PMI1651,42760.1806522988,-1.1448556880234098,0.000125445579965985,flgE,(GenBank) flagellar hook protein,pmr02040  Flagellar assembly
+PMI0399,268.905897579662,-1.1451865990642098,0.000521979240487839,,(GenBank) conserved hypothetical protein,
+PMI0141,1515.43656416044,-1.1456558593663602,0.00011870975005740901,recR,(GenBank) recombination protein,pmr03440  Homologous recombination
+PMI1614,257.513124870377,-1.14833692256151,0.00714380894398887,cycA,(GenBank) D-serine/D-alanine/glycine transporter,
+PMI1104,181.917556447128,-1.1513571442002999,0.000196211670668954,,(GenBank) conserved hypothetical protein,
+PMI1045,17782.4278346954,-1.1544564790360201,2.58370677893226e-05,arnA,(GenBank) bifunctional polymyxin resistance protein [includes: UDP-glucuronic acid decarboxylase and UDP-4-amino-4-deoxy-l-arabinose formyltransferase,"pmr00520  Amino sugar and nucleotide sugar metabolism, pmr01503  Cationic antimicrobial peptide (CAMP) resistance"
+PMI3187,426.547731302866,-1.15720111110813,0.00031251174380926,,(GenBank) putative methyltransferase,
+PMI3417,12596.0196230908,-1.1594069468981398,0.00226116992509163,nusA,(GenBank) transcription elongation protein (N utilization substance protein A),
+PMI1413,4931.17967182736,-1.16050493285221,0.000125445579965985,sufD,(GenBank) subunit of cysteine desulfurase activator complex,
+PMI3604,298.775456347644,-1.1618006811589399,0.00014586472372786,,(GenBank) conserved hypothetical protein,
+PMI0843,2457.07964371639,-1.16490547651226,0.0274445609378168,,(GenBank) putative amino acid permease,
+PMI1652,14822.6326629705,-1.1673801904313101,8.12355437011948e-05,flgD,(GenBank) basal-body rod modification protein,pmr02040  Flagellar assembly
+PMI1427,851.5204554122479,-1.1686054007184699,0.000547865443544137,hmuS,(GenBank) hemin transport protein,
+PMI0549,352.696326667303,-1.16988462651685,0.000592984819719832,,(GenBank) conserved hypothetical protein,
+PMI1888,1789.81473696945,-1.1707922878831398,0.000589882992709653,rnc,"(GenBank) RNase III, ds RNA",
+PMI2345,3660.36137381974,-1.17169707220158,3.31781825839304e-06,parE,(GenBank) DNA topoisomerase IV subunit B,
+fig|529507.6.peg.97,29.1432156567513,-1.17209010741234,0.0055062056629180895,,,
+PMI1619,204.67711860424598,-1.17227295913926,0.0024197240895136897,fliC2,(GenBank) flagellin 2,"pmr02020  Two-component system, pmr02040  Flagellar assembly"
+PMI1646,3882.7313955562395,-1.17529889430275,2.60677139098351e-06,flgJ,(GenBank) peptidoglycan hydrolase (muramidase),
+PMI3314,10606.6322747741,-1.17954249684004,0.00044601257857913206,rho,(GenBank) transcription termination factor Rho,pmr03018  RNA degradation
+PMI1285,116.273116293226,-1.1808826753992498,0.00025139270929161,,(GenBank) putative membrane protein,
+PMI0422,264.887059418441,-1.18153204371117,0.000852079297546986,,(GenBank) conserved hypothetical protein,
+PMI3591,4140.600088928521,-1.1816330603633,0.0125866685883129,glpT,(GenBank) glycerol-3-phosphate transporter (MFS-family transporter),
+PMI3277,15057.191034451498,-1.1862841427433,0.00047972230160797197,rpsM,(GenBank) 30S ribosomal protein S13,pmr03010  Ribosome
+PMI0599,2312.47840190225,-1.1899560187376101,2.7644733644319203e-05,modC,"(GenBank) molybdenum ABC transporter, ATP-binding protein",pmr02010  ABC transporters
+PMI2855,6796.31477342324,-1.19178412515867,7.4406411771075e-06,glyS,(GenBank) glycyl-tRNA synthetase beta subunit,pmr00970  Aminoacyl-tRNA biosynthesis
+PMI0427,986.565875898174,-1.1925219724748302,3.7038690510742105e-05,,(GenBank) conserved hypothetical protein,
+PMI3233,337.88706149242597,-1.19411529874013,6.564791835283161e-05,,(GenBank) putative membrane protein,
+PMI2008,8053.533783047991,-1.20079393496056,2.1494234611196398e-05,lysS,(GenBank) lysyl-tRNA synthetase,pmr00970  Aminoacyl-tRNA biosynthesis
+PMI1658,461.55971940042997,-1.20300508318344,0.00103675191888413,floA,(GenBank) putative haemagglutinin,
+PMI3631,4978.2737259409105,-1.20311106381168,2.8852608279790697e-05,mreB,(GenBank) rod shape-determining protein,
+PMI2271,798.511735896759,-1.20566404421679,0.000124407913851562,rnhB,(GenBank) ribonuclease HII,pmr03030  DNA replication
+PMI1036,4004.76068760699,-1.20639409060668,0.000878469029396892,rpmI,(GenBank) 50S ribosomal subunit protein L35,pmr03010  Ribosome
+PMI1437,3058.58763498596,-1.20732009088491,2.08939920491384e-08,,(GenBank) putative iron utilization protein,
+PMI1195,55.534122461761896,-1.21418713672237,0.0113708691634576,,(GenBank) outer membrane fimbrial usher protein,
+PMI2304,545.139944222452,-1.2143572026118301,8.77639012260603e-05,,(GenBank) conserved hypothetical protein,
+PMI2792,54829.055100002,-1.2158194488719398,0.00023462412707469903,tufB,(GenBank) elongation factor Tu,
+PMI0545,1482.01704072718,-1.2205267353235,7.37580273631912e-05,,(GenBank) putative DNA-binding protein,
+PMI0076,2243.65773182732,-1.224287459128,0.0017618865771892398,tgt,(GenBank) queuine tRNA-ribosyltransferase,
+PMI1638,2375.3697956585197,-1.22820498077934,0.00286849403855581,fliN,(GenBank) flagellar motor switch protein,"pmr02030  Bacterial chemotaxis, pmr02040  Flagellar assembly"
+PMI3418,19903.7066644753,-1.2283463588509398,0.00132951098759751,infB,(GenBank) translation initiation factor IF-2,
+fig|529507.6.peg.3428,23.3330188730403,-1.23176583118698,0.0357055975489946,,,
+PMI1637,7216.961809862059,-1.23473766695991,0.000140615133809802,fliM,(GenBank) flagellar motor switch protein,"pmr02030  Bacterial chemotaxis, pmr02040  Flagellar assembly"
+PMI2344,5233.66490510122,-1.23547418648196,2.95447039353647e-06,parC,(GenBank) DNA topoisomerase IV subunit A,
+PMI1640,1362.32744342466,-1.2381691188493702,0.00010115203232820501,fliP,(GenBank) flagellar biosynthetic protein,pmr02040  Flagellar assembly
+PMI0172,236.251643993581,-1.24104208858906,0.0135240608887688,,(GenBank) putative Dyp-type peroxidase,
+PMI1551,143.170296861949,-1.24151581728082,0.0440703168977405,,(GenBank) putative lipoprotein,
+PMI0860,7081.123739331229,-1.2422623171893101,7.85718602618875e-06,fabD,(GenBank) malonyl CoA-acyl carrier protein transacylase,"pmr00061  Fatty acid biosynthesis, pmr01100  Metabolic pathways, pmr01130  Biosynthesis of antibiotics, pmr01212  Fatty acid metabolism"
+fig|529507.6.peg.1288,451.11063724162,-1.24406882843508,0.00102508515315153,,,
+PMI0029,2953.25117344523,-1.24847450975227,0.00244500873219953,exbB,(GenBank) biopolymer transport protein,
+PMI1087,2825.68414062079,-1.25390147856117,0.000163395861517053,prfA,(GenBank) peptide chain release factor 1,
+PMI0671,2244.28522615367,-1.25457705215422,0.000670313842994321,sdaB,(GenBank) L-serine dehydratase,"pmr00260  Glycine, serine and threonine metabolism, pmr00270  Cysteine and methionine metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01230  Biosynthesis of amino acids"
+PMI1632,5822.95140062462,-1.2565697186501001,2.33103297983819e-09,fliH,(GenBank) flagellar assembly protein,pmr02040  Flagellar assembly
+PMI0366,2077.0543934318102,-1.2566968971294699,0.000155055145779959,gpt,(GenBank) xanthine-guanine phosphoribosyltransferase,"pmr00230  Purine metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites"
+PMI0428,397.16256870580804,-1.2588223665445701,0.000888720795412949,,(GenBank) conserved hypothetical protein,
+PMI0863,4564.8384385462205,-1.25929808054557,9.21615448667828e-05,fabF,(GenBank) 3-oxoacyl-[acyl-carrier-protein] synthase II,"pmr00061  Fatty acid biosynthesis, pmr00780  Biotin metabolism, pmr01100  Metabolic pathways, pmr01212  Fatty acid metabolism"
+PMI1990,43.278307743563005,-1.26009067852347,0.000488662661092264,,(GenBank) phage major capsid protein,
+PMI0047,11426.548186381799,-1.26060617055085,0.00135541495109517,,(GenBank) putative secreted 5'-nucleotidase,"pmr00230  Purine metabolism, pmr00240  Pyrimidine metabolism, pmr00760  Nicotinate and nicotinamide metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites"
+PMI3129,1079.29465706555,-1.26267052836327,0.0019231621019031103,,(GenBank) conserved hypothetical protein,
+PMI0782,2191.7385285124697,-1.26454178793355,0.0043916198404658395,fabA,(GenBank) 3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase,"pmr00061  Fatty acid biosynthesis, pmr01100  Metabolic pathways, pmr01212  Fatty acid metabolism"
+PMI2291,427.43125707124,-1.26566654732945,0.00029726634621627003,,(GenBank) hypothetical protein,
+PMI3113,1182.83216825642,-1.2664827319624299,0.008662000687281079,,(GenBank) conserved hypothetical protein,
+PMI1633,10323.1313839013,-1.2695351565053001,1.8655814845552897e-06,fliI,(GenBank) flagellum-specific ATP synthase,pmr02040  Flagellar assembly
+PMI1877,165.757833200672,-1.2698410830061,0.00245067913124355,pmfA,(GenBank) major fimbrial subunit,
+PMI1383,3792.0037626185294,-1.27227316036215,5.90760387387554e-06,fabI,(GenBank) enoyl-[acyl-carrier-protein] reductase (NADH),"pmr00061  Fatty acid biosynthesis, pmr00780  Biotin metabolism, pmr01100  Metabolic pathways, pmr01130  Biosynthesis of antibiotics, pmr01212  Fatty acid metabolism"
+PMI1975,30.4659669707939,-1.27604391996079,0.0037624663786279705,,(GenBank) probable major tail tube protein,
+PMI0677,1087.65107224996,-1.27627189325535,0.000246384374282942,,(GenBank) conserved hypothetical protein,
+PMI0114,36072.134091206004,-1.2766158003813401,9.327437271545029e-05,tig,(GenBank) Trigger factor,
+PMI0138,3392.1098383050603,-1.28308894544922,0.000185437812010132,apt,(GenBank) adenine phosphoribosyltransferase,"pmr00230  Purine metabolism, pmr01100  Metabolic pathways"
+PMI1631,9951.207607764609,-1.2878019512093402,1.73203315671097e-07,fliG,(GenBank) flagellar motor switch protein,"pmr02030  Bacterial chemotaxis, pmr02040  Flagellar assembly"
+PMI2263,412.028581594163,-1.2934809238245402,0.000744406357241629,,(GenBank) conserved hypothetical protein,
+PMI1197,283.674223709094,-1.29591658866562,1.19962530803599e-06,,(GenBank) fimbrial subunit,
+PMI0013,674.096711985889,-1.30071988530898,0.000653720874478806,rpsT,(GenBank) 30S ribosomal protein S20,pmr03010  Ribosome
+PMI1088,1379.2260895626,-1.30192822105732,0.000104282980043404,hemK,(GenBank) protein methyltransferase (protein-glutamine N-methyltransferase),
+PMI0842,16008.235587036,-1.30385723649805,0.00645132919976365,,(GenBank) TonB-dependent receptor,
+PMI1584,986.869515744579,-1.3062271253661,0.00104096020241128,tppB,(GenBank) tripeptide permease (MFS-family transporter),
+PMI2618,106.81797659983299,-1.3075039201900802,2.1190705203221104e-05,,(GenBank) TonB-dependent receptor,
+PMI1771,3059.43377267529,-1.31050185425236,0.00519772883990326,ackA,(GenBank) acetate kinase,"pmr00430  Taurine and hypotaurine metabolism, pmr00620  Pyruvate metabolism, pmr00640  Propanoate metabolism, pmr00680  Methane metabolism, pmr01100  Metabolic pathways, pmr01120  Microbial metabolism in diverse environments, pmr01200  Carbon metabolism"
+PMI0423,1431.8552434586902,-1.32677202037933,0.00011870975005740901,dacA,(GenBank) putative penicillin-binding protein,"pmr00550  Peptidoglycan biosynthesis, pmr01100  Metabolic pathways"
+PMI3286,1354.90145365493,-1.3276611078541,1.64418114315367e-06,rsmB,(GenBank) ribosomal RNA small subunit methyltransferase B,
+PMI2122,73.0048069763454,-1.3282482180869999,0.0016434016427349198,,(GenBank) putative haemagglutinin,
+PMI1530,432.048123367793,-1.3322569329743101,0.00011985408278302601,,(GenBank) conserved hypothetical protein,
+PMI0600,381.87454781861,-1.33373250714716,4.3575272537026396e-05,,(GenBank) putative hydrolase,
+PMI3252,232.00280234982498,-1.3338366441421001,0.00512431799074754,bfd,(GenBank) bacterioferritin-associated ferredoxin,
+PMI0409,2429.4320075955998,-1.33383779174103,0.00748676864666128,,(GenBank) TonB-dependent receptor,
+PMI2282,1752.5035258742,-1.33890356218953,8.942231260834558e-07,frr,(GenBank) ribosome recycling factor,
+PMI3576,1442.4261503529,-1.3394873585048999,5.4902871383474196e-08,,(GenBank) putative sulfatase,"pmr00540  Lipopolysaccharide biosynthesis, pmr01503  Cationic antimicrobial peptide (CAMP) resistance"
+PMI1416,2748.41382517667,-1.3408347193213401,1.79269266285966e-05,sufA,(GenBank) putative scaffold protein for iron-sulfur cluster assembly,
+PMI2370,1386.1438942243499,-1.34412353637878,0.00800448242735509,rpsU,(GenBank) 30S ribosomal subunit protein S21,pmr03010  Ribosome
+PMI0149,187.756931227676,-1.34890821992991,0.00171161132907659,,(GenBank) putative drug/sodium antiporter,
+PMI2859,69.9614303258327,-1.3493074776591203,0.0029658911142494897,,(GenBank) putative endonuclease/exonuclease/phosphatase,
+PMI3423,2821.9271132169106,-1.35950037365485,0.0025006026031143603,nlpI,(GenBank) lipoprotein,
+PMI0160,562.7002579470391,-1.36628344043917,2.0275602189879398e-05,hpt,(GenBank) hypoxanthine phosphoribosyltransferase,"pmr00230  Purine metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites"
+fig|529507.6.peg.1610,243.57450025067996,-1.3761356233585,0.007782873585827091,,,
+PMI3405,21713.9628825956,-1.37656574278364,0.0018859408932506,rplU,(GenBank) 50S ribosomal protein L21,pmr03010  Ribosome
+PMI3628,4729.55283081736,-1.3792093327697301,0.00040552441475370603,accB,(GenBank) biotin carboxyl carrier protein,"pmr00061  Fatty acid biosynthesis, pmr00620  Pyruvate metabolism, pmr00640  Propanoate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01212  Fatty acid metabolism"
+PMI0715,51333.223706635305,-1.3802849608445302,3.09657009650202e-05,rpsA,(GenBank) 30S ribosomal protein S1,pmr03010  Ribosome
+PMI0386,4184.87395223325,-1.3810935568559097,0.000140615133809802,rplS,(GenBank) 50S ribosomal subunit protein L19,pmr03010  Ribosome
+PMI1044,7355.39315179649,-1.3821392465951898,2.38752204858477e-07,arnC,(GenBank) undecaprenyl-phosphate 4-deoxy-4-formamido-l-arabinose transferase,"pmr00520  Amino sugar and nucleotide sugar metabolism, pmr01503  Cationic antimicrobial peptide (CAMP) resistance"
+PMI0783,2449.98220520861,-1.3843905427898002,2.68407873900739e-05,,(GenBank) conserved hypothetical protein,
+PMI2052,1312.16382693324,-1.39535055702647,3.89328533193912e-06,coaE,(GenBank) dephospho-CoA kinase,"pmr00770  Pantothenate and CoA biosynthesis, pmr01100  Metabolic pathways"
+PMI1091,515.711895347001,-1.39596762194969,4.440924523259929e-06,,(GenBank) conserved hypothetical protein,
+PMI1590,2855.91613950111,-1.39984712285811,4.82883689601179e-06,,(GenBank) putative protease,
+PMI1887,3285.32486622455,-1.40049742118148,0.00010062340867143499,era,(GenBank) GTP-binding protein,
+PMI1991,22.8846694626543,-1.40537185167503,0.00304767087972282,,(GenBank) phage capsid scaffolding protein,
+PMI2047,1390.0256501209801,-1.40683888892627,0.0070033777924880395,pdhR,(GenBank) pyruvate dehydrogenase complex repressor (GntR-family transcriptional regulator),
+PMI1945,3382.0567952634497,-1.4087235354698797,0.0011064577733205401,ireA,(GenBank) putative TonB-dependent ferric siderophore receptor,
+PMI1038,4091.1922497378796,-1.40954309154373,1.32449947951198e-06,pheS,(GenBank) phenylalanyl-tRNA synthetase alpha chain,pmr00970  Aminoacyl-tRNA biosynthesis
+PMI2790,2763.47530838027,-1.4118016504715498,2.18114025295696e-05,nusG,(GenBank) transcription antitermination protein,
+PMI0174,43.737260076830594,-1.41878083678098,0.0275134408919288,,(GenBank) putative membrane protein,
+PMI2808,5894.45890037234,-1.41920360355841,0.000432482695531658,,(GenBank) methyl-accepting chemotaxis protein,
+PMI0714,3199.3892263941902,-1.41983231383167,0.00013772685389334,cmk,(GenBank) cytidylate kinase,"pmr00240  Pyrimidine metabolism, pmr01100  Metabolic pathways"
+PMI0856,8016.21413753448,-1.4247653439266799,0.0009124233229606301,,(GenBank) conserved hypothetical protein,
+PMI3406,1809.67172257531,-1.4263525531463799,0.000425008075686987,rpmA,(GenBank) 50S ribosomal protein L27,pmr03010  Ribosome
+PMI2898,1617.16859073924,-1.43556636132943,0.039535116509401,,"(GenBank) putative amino acid ABC transporter, substrate-binding protein",
+PMI1531,572.843514090621,-1.43631214202976,2.3629837912583397e-05,,(GenBank) conserved hypothetical protein,
+PMI1617,8332.919192987,-1.43676529722409,6.53765659192604e-15,fliZ,(GenBank) FliZ protein,
+PMI0859,4101.33177825198,-1.4380453350556202,8.943967080948309e-07,fabH,(GenBank) 3-oxoacyl-[acyl-carrier-protein] synthase III,"pmr00061  Fatty acid biosynthesis, pmr01100  Metabolic pathways, pmr01212  Fatty acid metabolism"
+PMI0993,3563.52908095291,-1.43892734680273,5.4857012512234704e-05,,(GenBank) putative lipoprotein,
+PMI2475,16.5061942267697,-1.44938402398529,0.0128905823940598,,(GenBank) putative plasmid conjugative transfer protein,
+PMI2786,19109.7187624606,-1.45023611523141,0.000681383694664927,rplL,(GenBank) 50S ribosomal subunit protein L7/L12,pmr03010  Ribosome
+PMI1109,553.06844966484,-1.4558318811808,3.41879672400455e-05,,(GenBank) conserved hypothetical protein,
+PMI1548,324.226140066572,-1.45826870936416,9.12383227302359e-05,,(GenBank) TonB-dependent receptor,
+PMI0308,48.937701092322996,-1.45873497488494,4.6680064422525e-05,,(GenBank) hypothetical protein,
+PMI0986,9629.40074203037,-1.4611045286354398,8.04048511648859e-06,,(GenBank) conserved hypothetical protein,
+PMI2045,7519.546134740071,-1.46114605735768,0.0010332071266639302,aceF,(GenBank) dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,"pmr00010  Glycolysis / Gluconeogenesis, pmr00020  Citrate cycle (TCA cycle), pmr00620  Pyruvate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism"
+PMI3627,14982.952077426899,-1.4654360618028501,4.21375449601371e-05,accC,(GenBank) biotin carboxylase,"pmr00061  Fatty acid biosynthesis, pmr00620  Pyruvate metabolism, pmr00640  Propanoate metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01120  Microbial metabolism in diverse environments, pmr01130  Biosynthesis of antibiotics, pmr01200  Carbon metabolism, pmr01212  Fatty acid metabolism"
+PMI3388,1711.66917230177,-1.4654757037842,0.0019361389259961899,,(GenBank) putative transporter,
+PMI2009,7980.572561081609,-1.46830154496846,9.78716516000618e-08,prfB,(GenBank) peptide chain release factor 2,
+PMI0994,888.090421498934,-1.4782925038653,2.3586988268922102e-05,,(GenBank) putative lipoprotein,
+PMI1863,3205.99345806019,-1.4801183769867199,0.00274816428370862,suhB,(GenBank) inositol-1-monophosphatase,"pmr00521  Streptomycin biosynthesis, pmr00562  Inositol phosphate metabolism, pmr01100  Metabolic pathways"
+PMI2923,13.2561018032864,-1.48157012070187,0.0338314267432954,,(GenBank) conserved hypothetical protein,
+PMI2283,3683.6011399460604,-1.4879612764925598,5.57238775918798e-06,pyrH,(GenBank) uridylate kinase,"pmr00240  Pyrimidine metabolism, pmr01100  Metabolic pathways"
+PMI2791,3052.48518485243,-1.49737458706192,0.000149237403979886,secE,(GenBank) preprotein translocase SecE subunit,"pmr02024  Quorum sensing, pmr03060  Protein export, pmr03070  Bacterial secretion system"
+PMI3421,6637.2052361408705,-1.50008125424476,0.000126378077281072,rpsO,(GenBank) 30S ribosomal protein S15,pmr03010  Ribosome
+PMI2793,99696.32846312369,-1.5067722307718603,1.9747967418263397e-05,fusA,(GenBank) elongation factor G (EF-G),
+PMI0808,2052.27352250339,-1.51350591625556,1.75221774571714e-07,ddg,(GenBank) cold-induced palmitoleoyl transferase,
+PMI3531,486.685814071369,-1.5159020068217701,0.00015707780922027902,,(GenBank) conserved hypothetical protein,
+PMI1417,1479.5870104906,-1.516580810703,5.31027107484305e-08,,(GenBank) putative lipoprotein,
+PMI1194,17.2464739357663,-1.52215248626134,0.0023678492223021697,,(GenBank) fimbrial subunit,
+PMI0097,3140.66726399716,-1.5244774610022398,1.25609176344097e-06,thiI,(GenBank) thiamine biosynthesis protein,"pmr00730  Thiamine metabolism, pmr01100  Metabolic pathways, pmr04122  Sulfur relay system"
+PMI3130,1138.24175568483,-1.5246414055342998,3.3203827915566806e-05,rnpA,(GenBank) ribonuclease P protein component,
+PMI3410,476.98630235263704,-1.5248102718122603,7.13911512461454e-05,,(GenBank) putative RNA-binding protein,
+PMI2881,15171.6973362743,-1.52720458447746,1.2979203708674699e-05,typA,(GenBank) GTP-binding protein,
+PMI2421,2750.18829448812,-1.52802017106544,1.09712934085343e-06,,(GenBank) putative phospholipid-binding protein,
+PMI0858,1819.66998236643,-1.5317409812113703,3.07972760742416e-06,plsX,(GenBank) fatty acid/phospholipid synthesis protein,"pmr00561  Glycerolipid metabolism, pmr00564  Glycerophospholipid metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites"
+PMI3274,19144.5421033251,-1.53663563888798,0.000592984819719832,rplO,(GenBank) 50S ribosomal protein L15,pmr03010  Ribosome
+PMI3416,4317.884492409021,-1.53732100715319,0.00018072534071076298,,(GenBank) conserved hypothetical protein,
+PMI1963,12.1159195874509,-1.5375740134673999,0.00992215764058875,,(GenBank) conserved hypothetical protein,
+PMI0857,514.362016749692,-1.5407728867056498,0.00199206455316639,rpmF,(GenBank) 50S ribosomal protein L32,pmr03010  Ribosome
+PMI1616,8904.86932002406,-1.5449396581575399,0.0236312400795587,putA,(GenBank) bifunctional PutA protein [includes: proline dehydrogenase and delta-1-pyrroline-5-carboxylate,"pmr00250  Alanine, aspartate and glutamate metabolism, pmr00330  Arginine and proline metabolism, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics"
+PMI3279,53230.871642298895,-1.5465908767400198,1.80153632234483e-05,rpsD,(GenBank) 30S ribosomal protein S4,pmr03010  Ribosome
+PMI0861,15058.796975514399,-1.5524444215010402,2.5210255088397502e-05,fabG,(GenBank) 3-oxoacyl-[acyl-carrier protein] reductase,"pmr00061  Fatty acid biosynthesis, pmr00780  Biotin metabolism, pmr01040  Biosynthesis of unsaturated fatty acids, pmr01100  Metabolic pathways, pmr01130  Biosynthesis of antibiotics, pmr01212  Fatty acid metabolism"
+PMI1042,750.443965490856,-1.5613199805060902,4.69311925416683e-06,btuD,(GenBank) putative vitamin B12 transport ATP-binding protein,pmr02010  ABC transporters
+PMI0620,1298.1227112737802,-1.5613513287728602,0.000124417052858644,rhlE,(GenBank) putative ATP-dependent RNA helicase,pmr03018  RNA degradation
+PMI3273,2280.83324171619,-1.5652600543611699,3.86413158222646e-05,rpmD,(GenBank) 50S ribosomal protein L30,pmr03010  Ribosome
+PMI2380,463.674811646469,-1.56731249158196,0.000189784437203025,,(GenBank) methyl-accepting chemotaxis protein,
+PMI3704,238.074996773834,-1.56797596804855,0.004936065267019321,,(GenBank) probable exported protease,
+PMI3280,62574.300429531504,-1.56814971941922,0.000380289388402818,rpoA,(GenBank) DNA-directed RNA polymerase alpha chain,"pmr00230  Purine metabolism, pmr00240  Pyrimidine metabolism, pmr01100  Metabolic pathways, pmr03020  RNA polymerase"
+PMI0383,12080.4977285677,-1.5683611177415702,5.1061204473304905e-06,rpsP,(GenBank) 30S ribosomal protein S16,pmr03010  Ribosome
+PMI1736,545.774592482936,-1.57159712422277,0.00024059579401039503,,(GenBank) putative ferredoxin,
+PMI3259,5678.40044443235,-1.57180985238004,0.00124560717953713,rpsS,(GenBank) 30S ribosomal protein S19,pmr03010  Ribosome
+PMI0176,127.59315050715901,-1.58049636855734,0.0155210251246623,,(GenBank) putative exported protein,
+PMI1257,3268.21920249042,-1.5882046657357902,6.1296003295867105e-06,,(GenBank) ABC transporter ATP-binding protein,
+PMI0173,105.764609621835,-1.5888100297619001,0.0067580133742091205,,(GenBank) putative exported protein,
+PMI3589,1070.95631714486,-1.59379922367068,7.559854623943029e-06,poxA,(GenBank) putative lysyl-tRNA synthetase,
+PMI2685,13.6859098029122,-1.59653179058507,0.00395685345864408,,(GenBank) putative type III secretion system protein,
+PMI2794,29364.5115037123,-1.59947179919653,4.4680392605229996e-05,rpsG,(GenBank) 30S ribosomal subunit protein S7,pmr03010  Ribosome
+PMI0384,17043.9404705964,-1.6047232263060303,2.46239558450415e-06,rimM,(GenBank) 16S rRNA processing protein,
+PMI3131,1450.82095214219,-1.60646781840269,0.0030478945688247397,rpmH,(GenBank) 50s ribosomal protein l34,pmr03010  Ribosome
+PMI1268,716.677849427699,-1.60850795376562,6.939273102721801e-05,,(GenBank) putative ATP-binding/heat shock protein,
+PMI1642,608.898486939677,-1.6161789059947402,7.077903933974581e-11,fliR,(GenBank) flagellar biosynthetic protein,pmr02040  Flagellar assembly
+fig|529507.6.peg.3306,11.3540718745399,-1.61958633320807,0.00656360040637272,,,
+PMI0385,19633.5408312941,-1.62682944842893,1.5037632435111402e-05,trmD,(GenBank) tRNA (guanine-N1)-methyltransferase,
+PMI1848,2649.13266239208,-1.62770764458303,6.94022101162969e-06,,(GenBank) radical SAM superfamily protein,
+PMI3268,7360.26163870023,-1.62779948326804,0.00298626560803385,rpsN,(GenBank) 30S ribosomal protein S14,pmr03010  Ribosome
+PMI3158,70.6958042980534,-1.62924947138768,0.000661475709715658,rpmG,(GenBank) 50S ribosomal rotein L33,pmr03010  Ribosome
+PMI0826,4283.86622803323,-1.63094767670105,5.94573978287891e-05,rplY,(GenBank) 50S ribosomal protein L25,pmr03010  Ribosome
+PMI2284,23124.3666310413,-1.632542633193,8.04048511648859e-06,tsf,(GenBank) elongation factor Ts,
+PMI2795,20651.5200066072,-1.63302411446948,1.2595321578504401e-05,rpsl,(GenBank) 30S ribosomal protein S12,pmr03010  Ribosome
+PMI0988,86.3186954411665,-1.6349675106246901,0.00010375059903391801,,(GenBank) putative phage protein,
+PMI1354,137.97495931262,-1.64390410965029,0.000697271560964788,,(GenBank) putative acyl-CoA thioester hydrolase,pmr01040  Biosynthesis of unsaturated fatty acids
+PMI0987,471.34397169197797,-1.64689790632833,8.039394665632e-07,,(GenBank) conserved hypothetical protein,
+PMI0197,714.4456852096339,-1.64693953474329,2.1577785744768e-05,folK,(GenBank) 2-amino-4-hydroxy-6-hydroxymethyldihydropteridi ne pyrophosphokinase,"pmr00790  Folate biosynthesis, pmr01100  Metabolic pathways"
+PMI3281,1092.3520204066801,-1.65092932070851,0.00019545464639493502,rplQ,(GenBank) 50S ribosomal protein L17,pmr03010  Ribosome
+PMI1595,362.229739664216,-1.65206774342178,0.00136999377802897,pagP,(GenBank) putative antimicrobial peptide resistance and lipid A acylation protein,pmr01503  Cationic antimicrobial peptide (CAMP) resistance
+PMI0363,516.364755505755,-1.65295296403191,0.000803229293499186,,(GenBank) TonB-dependent ferric siderephore receptor,
+PMI3055,4027.7962517989204,-1.65469876340749,3.7476881181442705e-06,gidA,(GenBank) tRNA uridine 5-carboxymethylaminomethyl modification enzyme (glucose-inhibited division protein A),
+PMI2930,3444.8049338555998,-1.65989354521399,0.00202664845819489,glpD,(GenBank) aerobic glycerol-3-phosphate dehydrogenase,"pmr00564  Glycerophospholipid metabolism, pmr01110  Biosynthesis of secondary metabolites"
+PMI1359,3358.8628527455103,-1.6637238857178402,9.7320860708106e-07,,(GenBank) outer membrane protein (putative attachment invasion locus protein),
+PMI3275,43370.864249884304,-1.6681916643650299,6.97976794653492e-06,secY,(GenBank) preprotein translocase SecY subunit,"pmr02024  Quorum sensing, pmr03060  Protein export, pmr03070  Bacterial secretion system"
+PMI3278,11926.980533555,-1.6697331233683703,0.00027438737624516,rpsK,(GenBank) 30S ribosomal protein S11,pmr03010  Ribosome
+PMI2789,8917.3263993044,-1.67226388913903,5.53262905126199e-05,rplK,(GenBank) 50S ribosomal protein L11,pmr03010  Ribosome
+fig|529507.6.peg.3075,15.0950616474454,-1.6725626848033601,0.00370731244783929,,,
+PMI1017,2246.0156383122,-1.67994272301722,8.79758033365121e-11,,(GenBank) putative exported protein,
+PMI3707,259.894558203118,-1.68222390928718,5.5887605406675e-05,,(GenBank) FecR-like transcriptional regulator,
+PMI3257,13001.0182331437,-1.6982386029011798,4.54778399016642e-05,rplW,(GenBank) 50S ribosomal protein L23,pmr03010  Ribosome
+PMI1641,256.799148806584,-1.7063987239131102,8.11575631642607e-08,fliQ,(GenBank) flagellar biosynthetic protein,pmr02040  Flagellar assembly
+PMI0621,276.679896558746,-1.7072139203655499,0.000206637843597963,dusC,(GenBank) tRNA-dihydrouridine synthase C,
+PMI0075,2127.92617596793,-1.7126843927861202,2.8767848602516498e-05,queA,(GenBank) S-adenosylmethionine:tRNA ribosyltransferase-isomerase,
+PMI3260,14766.014711072099,-1.7194481639158299,2.81250571281613e-06,rplV,(GenBank) 50S ribosomal protein L22,pmr03010  Ribosome
+PMI2252,320.839421640779,-1.72142142170785,4.1600710442039797e-07,,(GenBank) conserved hypothetical protein,"pmr00790  Folate biosynthesis, pmr01100  Metabolic pathways"
+PMI0046,2565.0543226671202,-1.72200250585834,2.45629159929235e-05,,(GenBank) putative lipoprotein,
+PMI2904,8.09397599364164,-1.72565165057893,0.0109229760583532,,(GenBank) putative exported protein,
+PMI3379,45.6519662698699,-1.7308990574340302,0.0038060029728512,rpmE2,(GenBank) 50S ribosomal protein L31 type B,pmr03010  Ribosome
+PMI1108,856.5109053323159,-1.73541516975746,4.2093096129778295e-06,,(GenBank) conserved hypothetical protein,
+PMI0198,2640.74835779057,-1.74870253656603,7.19984829211773e-07,pcnB,(GenBank) poly(A) polymerase,pmr03018  RNA degradation
+PMI3114,3014.82569062925,-1.7487475607916698,2.5041683013208498e-05,,(GenBank) putative glycosyltransferase,
+PMI1962,27.4662032996526,-1.75501822862517,0.000171569573836513,,(GenBank) AraC-family transcriptional regulator,
+PMI3056,240.91579071202702,-1.75627493258809,7.05923280060752e-06,gidB,(GenBank) methyltransferase (glucose-inhibited division protein B),
+PMI3263,2557.9087196181895,-1.76866197389299,1.13631434458111e-05,rpmC,(GenBank) 50S ribosomal protein L29,pmr03010  Ribosome
+PMI0178,28.6933513477073,-1.7812510144108,1.5761151098165e-05,,(GenBank) putative putative membrane protein,
+PMI3669,10883.6807512422,-1.79532215922935,1.84560324426508e-05,rplM,(GenBank) 50S ribosomal protein L13,pmr03010  Ribosome
+PMI3266,22285.455779814103,-1.79757293171106,2.80088360413088e-07,rplX,(GenBank) 50S ribosomal protein L24,pmr03010  Ribosome
+fig|529507.6.peg.983,5.381473784945179,-1.7989698728063401,0.0283389090371664,,,
+PMI3267,25484.571429225096,-1.8001435524551397,4.0861268621554295e-05,rplE,(GenBank) 50S ribosomal protein L5,pmr03010  Ribosome
+PMI3265,7427.16269321509,-1.8142298141650302,0.000288669339230328,rplN,(GenBank) 50S ribosomal protein L14,pmr03010  Ribosome
+PMI3276,3669.29135937695,-1.8155526502883,2.07645148577e-05,rpmJ,(GenBank) 50S ribosomal protein L36,pmr03010  Ribosome
+PMI2196,2748.07296339198,-1.83071512616629,0.000108265857911808,,(GenBank) putative membrane-associated CAAX amino terminal protease,
+PMI1438,530.963730577098,-1.8364755528361598,1.3453939125741501e-14,,(GenBank) putative membrane protein,
+PMI0044,6237.56178394415,-1.84296863701401,0.00050566534657007,,(GenBank) putative outer membrane protein,
+PMI3374,13445.3787885204,-1.84442340418901,1.66860428776002e-06,rpsF,(GenBank) 30S ribosomal protein S6,pmr03010  Ribosome
+PMI3262,31781.6191541527,-1.8447766133653,3.24494934254682e-06,rplP,(GenBank) 50S ribosomal protein L16,pmr03010  Ribosome
+PMI3220,4992.7065754183595,-1.8500516734880803,1.52334339043184e-05,rpmE,(GenBank) 50S ribosomal protein L31,pmr03010  Ribosome
+PMI1198,506.65305441182403,-1.8512942711556202,0.000209140247539209,ydgI,(GenBank) putative arginine/ornithine antiporter,
+PMI3271,16406.7444791748,-1.86469890487975,1.53361263012137e-06,rplR,(GenBank) 50S ribosomal protein L18,pmr03010  Ribosome
+PMI2787,40014.3314733922,-1.8940583248282399,4.60213242540644e-07,rplJ,(GenBank) 50S ribosomal subunit protein L10,pmr03010  Ribosome
+PMI3622,983.3271287997951,-1.91271309937974,0.000141935637776211,fis,(GenBank) DNA-binding protein Fis,
+PMI2285,26433.316301939303,-1.91814421003836,9.663039942953952e-07,rpsB,(GenBank) 30S ribosomal protein S2,pmr03010  Ribosome
+PMI2181,1921.47742272124,-1.9217750234833,7.60561489438581e-08,gsk,(GenBank) inosine-guanosine kinase,pmr00230  Purine metabolism
+PMI2109,220.55775098037003,-1.92752724741057,6.71480883034559e-06,mgtE,(GenBank) magnesium transporter,
+PMI2082,681.629683220618,-1.9281436314841003,6.06595043208208e-07,leuO,(GenBank) LysR-family transcriptional regulator,
+PMI3261,36305.3422412185,-1.93862814666746,1.30815664377476e-06,rpsC,(GenBank) 30S ribosomal protein S3,pmr03010  Ribosome
+PMI3270,26357.088476778797,-1.93868679104532,1.8867149947878303e-05,rplF,(GenBank) 50S ribosomal protein L6,pmr03010  Ribosome
+PMI3254,11826.69411304,-1.9682535741157499,1.30183254162666e-07,rpsJ,(GenBank) 30S ribosomal protein S10,pmr03010  Ribosome
+PMI1300,1665.34819267251,-1.9743843878473402,2.1516706507375002e-11,add,(GenBank) adenosine deaminase,"pmr00230  Purine metabolism, pmr01100  Metabolic pathways"
+PMI0729,682.958682201166,-1.9870593413524398,9.59690268852603e-10,aphA,(GenBank) class B acid phosphatase precursor,"pmr00740  Riboflavin metabolism, pmr01100  Metabolic pathways"
+PMI3255,23582.5988179004,-1.98964161612369,1.5843285569407e-05,rplC,(GenBank) 50S ribosomal protein L3,pmr03010  Ribosome
+PMI3269,20958.071562345,-1.9979738569573102,8.7516145982206e-06,rpsH,(GenBank) 30S ribosomal protein S8,pmr03010  Ribosome
+PMI0287,89.2901791500247,-2.01768125744756,1.44730902106091e-05,,(GenBank) putative amidohydrolase/metallopeptidase,"pmr00240  Pyrimidine metabolism, pmr01100  Metabolic pathways"
+PMI3623,4234.0817153118705,-2.03217249233306,7.77040887540912e-05,dusB,(GenBank) tRNA-dihydrouridine synthase B,
+PMI3670,1654.06648072271,-2.0337612226884603,2.7925392537657297e-07,rpsI,(GenBank) 30S ribosomal protein S9,pmr03010  Ribosome
+PMI0836,379.366243295552,-2.05047242362493,2.18996388617017e-05,mtr,(GenBank) putative tryptophan-specific transport protein,
+PMI0281,588.307139662316,-2.05631339688883,8.19344320025744e-20,zapE,(GenBank) putative metalloprotease,
+PMI3272,11314.020818680901,-2.06883166945684,1.0977978684683801e-05,rpsE,(GenBank) 30S ribosomal protein S5,pmr03010  Ribosome
+PMI3256,25980.631007673503,-2.07283747881493,1.0585789313277e-07,rplD,(GenBank) 50S ribosomal protein L4,pmr03010  Ribosome
+PMI3258,27448.0398580404,-2.0903184291382,4.46834803590759e-06,rplB,(GenBank) 50S ribosomal protein L2,pmr03010  Ribosome
+PMI3596,282.530229557793,-2.1107932561091203,0.000634650092047893,,(GenBank) putative membrane protein,
+PMI3264,8704.55014978122,-2.1478574376271298,1.54122787450842e-07,rpsQ,(GenBank) 30S ribosomal protein S17,pmr03010  Ribosome
+PMI2788,5304.17731195348,-2.1543286105346797,2.3382258564506098e-06,rplA,(GenBank) 50S ribosomal protein L1,pmr03010  Ribosome
+PMI3375,25419.6123754773,-2.1616313426645903,1.72397267387425e-07,priB,(GenBank) primosomal replication protein N,pmr03440  Homologous recombination
+PMI1425,295.985653562588,-2.17954295892141,0.000506571083687251,hmuR1,(GenBank) hemin receptor,
+PMI3157,4288.94263432294,-2.18428283540029,2.3007765142597298e-07,rpmB,(GenBank) 50S ribosomal protein L28,pmr03010  Ribosome
+PMI0288,14966.4158387552,-2.19604274550984,2.0745193829174803e-05,rafY,(GenBank) putative glycoporin,
+PMI0875,535.820057558944,-2.19758337133789,0.000173797241274607,ndh,(GenBank) NADH dehydrogenase,pmr00190  Oxidative phosphorylation
+fig|529507.6.peg.1291,14.138520745843401,-2.20791923537378,0.000323065502962873,,,
+PMI2121,1969.93677597493,-2.27563818942822,1.62885999030914e-10,,(GenBank) putative phosphosugar-binding regulatory protein,
+PMI1695,923.849413616149,-2.3110042867736205,2.26414720001187e-09,,(GenBank) putative membrane protein,
+PMI1343,332.776829890717,-2.31183792549498,2.58370677893226e-05,trpE,(GenBank) anthranilate synthase component I,"pmr00400  Phenylalanine, tyrosine and tryptophan biosynthesis, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01230  Biosynthesis of amino acids, pmr02024  Quorum sensing"
+PMI3424,5187.13738353748,-2.3787573792448597,1.7966244430566398e-05,deaD,(GenBank) cold-shock DEAD box protein A (ATP-dependent RNA helicase),pmr03018  RNA degradation
+PMI0291,7159.52942500557,-2.40009605175608,3.74310181940507e-08,treB,"(GenBank) trehalose-specific PTS system, EIIBC component","pmr00500  Starch and sucrose metabolism, pmr02060  Phosphotransferase system (PTS)"
+PMI3377,7856.961774672991,-2.41662960753564,8.07709830866413e-08,rplI,(GenBank) 50S ribosomal protein L9,pmr03010  Ribosome
+PMI3376,2983.37362247117,-2.43458921924256,3.80897758231103e-07,rpsR,(GenBank) 30S ribosomal protein S18,pmr03010  Ribosome
+PMI1344,40.695662802208,-2.43708286777489,0.000686870367429304,trpD,(GenBank) anthranilate synthase component (glutamine amidotransferase),"pmr00400  Phenylalanine, tyrosine and tryptophan biosynthesis, pmr01100  Metabolic pathways, pmr01110  Biosynthesis of secondary metabolites, pmr01130  Biosynthesis of antibiotics, pmr01230  Biosynthesis of amino acids, pmr02024  Quorum sensing"
+PMI0678,488.94570717821097,-2.46588450505147,9.159315553445141e-09,rumB,(GenBank) putative 23S rRNA (uracil-5-)-methyltransferase,
+PMI0290,34304.2239064406,-2.47189622443089,1.64213294734715e-07,,(GenBank) glycosyl hydrolase,
+PMI1840,1913.09096389474,-2.5285338527808903,4.100699494678351e-09,,(GenBank) putative lipoprotein,
+PMI2834,1600.12441932816,-2.56825976634042,1.83399387267016e-07,aad,(GenBank) amino acid deaminase,
+PMI3705,103.828598305926,-2.72449918164699,5.1974864542988103e-05,,(GenBank) putative ABC transporter ATP-binding protein,pmr02010  ABC transporters
+PMI0289,4417.7330626374105,-2.82714589156786,1.4400116705176199e-11,pgmB,(GenBank) beta-phosphoglucomutase,pmr00500  Starch and sucrose metabolism
+PMI3706,613.131837974119,-2.83960409687675,1.26109254274958e-05,,(GenBank) TonB-dependent receptor,
+PMI0913,3785.4325343410705,-3.0237203885709603,0.000153492810820573,cspA,(GenBank) cold shock protein,
+PMI3598,50.089989450138795,-3.2720114269047005,6.29922265573561e-12,,(GenBank) multidrug efflux pump,"pmr01501  beta-Lactam resistance, pmr01503  Cationic antimicrobial peptide (CAMP) resistance"
+PMI0807,2977.6276669891,-3.2853582374878596,1.98262992338159e-10,cspB,(GenBank) putative cold shock protein,
+PMI0972,567.515226114475,-3.4899778286579597,1.03398983896515e-08,,(GenBank) cold shock protein,
+PMI2149,1967.5558954978399,-3.9257340966820298,6.28743504902106e-20,,(GenBank) putative exported amino acid deaminase,
