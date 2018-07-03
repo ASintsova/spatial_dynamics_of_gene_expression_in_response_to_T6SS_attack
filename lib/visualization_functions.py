@@ -148,12 +148,13 @@ def get_subset_genes(df, key, col_return,column_name="function"):
 
 
 def draw_heatmap_of_subset(df_index, meta, title, rpkms, samples,
-                           my_cmap, fs=(4,4), draw=True):
+                           my_cmap, fs=(4, 4), cases=["Case12", "Case7", "Case11", "Case8"],
+                           draw=True):
     """
     if draw is True returns figure, if False returns dataframe
 
     """
-    dline_meta = meta[meta["group.ID"].isin(["Case7", "Case8", "Case11", "Case12"])]
+    dline_meta = meta[meta["group.ID"].isin(cases)]
     subset_rpkms = dline_meta.merge(rpkms.loc[df_index][dline_meta.index].T, left_index=True, right_index=True)
     subset_means = {}
     for gene in df_index:
@@ -162,7 +163,7 @@ def draw_heatmap_of_subset(df_index, meta, title, rpkms, samples,
             m = round(subset_rpkms[subset_rpkms["group.ID"] == case][gene].mean(), 2)
             subset_means[gene][case] = m
     t = pd.DataFrame(subset_means).T
-    t = t[["Case12", "Case7", "Case11", "Case8"]]
+    t = t[cases]
     t.rename(index=str, columns={c: samples[c] for c in t.columns}, inplace=True)
     if draw:
         fig = plt.figure(figsize=fs)
@@ -173,6 +174,10 @@ def draw_heatmap_of_subset(df_index, meta, title, rpkms, samples,
         s.set_title(title)
         return fig
     return t
+
+
+
+
 
 
 def join_subset_means(label_subset_dict, meta, rpkms, samples, my_cmap):
