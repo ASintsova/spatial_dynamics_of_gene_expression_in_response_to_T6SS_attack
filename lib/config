@@ -1,0 +1,23 @@
+[ref]
+gff = /Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/data/ref/HI4320.gff
+patric_gff = /Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/data/ref/HI4320_PATRIC.gff
+
+[counts]
+counts_dir_4 = /Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/data/counts/reverse
+counts_dir_30 = /Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/data/counts/stranded
+tpms_4 =/Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/data/counts/reverse/TPMs.csv
+tpms_30 =/Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/data/counts/stranded/TPMs.csv
+
+[data]
+exp_design = /Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/data/ref/study_design.csv
+sequencing_stats_file = /Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/tables/2018_09_14_alignment_stats.csv
+
+mutant_killing = /Users/annasintsova/git_repos/proteus/analysis/mutant_killing/rpkm/kan_rpkms.csv
+
+
+
+
+[out_dir]
+figures = /Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/figures
+tables = /Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/tables
+

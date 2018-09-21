@@ -1,5 +1,7 @@
+import configparser
 import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib.colors import LinearSegmentedColormap
 import numpy as np
 from matplotlib.patches import Ellipse
 import os
@@ -27,25 +29,6 @@ col5 = "#143969"
 
 colors = [col1, col2, col3, col4, col5]
 
-sequencing_stats_file = "/Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/"\
-                        "tables/2018_09_14_alignment_stats.csv"
-
-counts_file = "/Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/" \
-              "data/counts/reverse/2018-04-25_counts.csv"
-
-rpkm_file = "/Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/" \
-            "data/counts/reverse/2018-04-25_rpkm.csv"
-
-study_design_file = "/Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/" \
-                    "data/ref/study_design.csv"
-
-figures_folder = "/Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/figures/"
-data_folder = "/Users/annasintsova/git_repos/spatial_dynamics_of_gene_expression_in_response_to_T6SS_attack/tables/"
-rpkms = pd.read_csv(rpkm_file, index_col=0)
-rpkms.columns = [c.split("_")[0] for c in rpkms.columns]
-
-meta = pd.read_csv(study_design_file, index_col=0)
-meta.index = [i.split("S")[1] for i in meta.index]
 
 wt_lfc = "WT Log2 Fold Change"
 mut_lfc = "9C1 Log2 Fold Change"
@@ -79,3 +62,27 @@ samples = {"Case1": "{} | {}".format(wt_L, zero),
            "Case12":"{} | {} | {}".format(wt, bh_mut, zero),
           "Case13": "{} | {} | {}".format(wt, bh_wt,zero ),
            "Case14":"{} | {} | {}".format(wt, bh_wt, thirty)}
+
+
+def process_config(config_file=''):
+    """
+    by default looks for config file in the same directory as the script
+    :param config_file:
+    :return:
+    """
+    if not config_file:
+        config_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config")
+    print(config_file)
+    config = configparser.ConfigParser()
+    config.read(config_file)
+    config_dict = {}
+    for section in config.sections():
+        config_dict[section] = {name: value for name, value in config.items(section)}
+    return config_dict
+
+
+def get_rid_of_genbank(df, column_name = "Function", genbank = "GenBank"):
+    fx = df[column_name]
+    fx = fx.str.replace("\({}\)".format(genbank), "")
+    df[column_name] = fx
+    return df

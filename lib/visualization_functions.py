@@ -1,15 +1,11 @@
-
-import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 from matplotlib.patches import Ellipse
-import os
-import scipy as ss
+import numpy as np
+import pandas as pd
 import scipy.stats
-#%matplotlib inline
-import itertools
 import seaborn as sns
 from sklearn.decomposition import PCA
+
 
 def invnorm(x):
     return scipy.stats.norm.ppf((x.rank() - 0.5) / x.count())
@@ -18,30 +14,23 @@ def invnorm(x):
 def findTwoComponents(df, meta):
     df = df.T
     pca = PCA(n_components=2)
-    principalComponents = pca.fit_transform(df)
-    pDf = pd.DataFrame(data=principalComponents
-                       , columns=['PC1', 'PC2'])
-    pDf.set_index(df.index, inplace=True)
+    principal_components = pca.fit_transform(df)
+    pca_df = pd.DataFrame(data=principal_components,
+                          columns=['PC1', 'PC2'])
+    pca_df.set_index(df.index, inplace=True)
     pc1_var = round(pca.explained_variance_ratio_[0] * 100, 2)
     pc2_var = round(pca.explained_variance_ratio_[1] * 100, 2)
-    pDf2 = pDf.merge(meta, left_index=True, right_index=True)
-    return pDf2, pc1_var, pc2_var
+    pca_df2 = pca_df.merge(meta, left_index=True, right_index=True)
+    return pca_df2, pc1_var, pc2_var
 
 
-def plotPCA(pDf, pc1_var, pc2_var, colorby, c="", nameby="", title="", filename='',
+def plotPCA(pca_df, pc1_var, pc2_var, colorby, clrs, nameby="", title="", filename='',
             el=False):  # , xlimits, ylimits, labels): # colorby is column in pDf
     sns.set_style("ticks")
-    group = pDf[colorby].unique()
-
-    assert len(group) < 5
-    if c:
-        colrs = c
-    else:
-        colrs = colors[:len(group) + 1]
-
+    group = pca_df[colorby].unique()
     fig = plt.figure(figsize=(8, 8))
-    for g, c in zip(group, colrs):
-        df = pDf[pDf[colorby] == g]
+    for g, c in zip(group, clrs):
+        df = pca_df[pca_df[colorby] == g]
         x, y = df[["PC1"]].values, df[["PC2"]].values
         pts = np.asarray([[float(a), float(b)] for a, b in zip(x, y)])
         ax = plt.scatter(x, y, c=c, s=150, label=g)
@@ -65,9 +54,9 @@ def plotPCA(pDf, pc1_var, pc2_var, colorby, c="", nameby="", title="", filename=
     return fig
 
 
-
 def plot_point_cov(points, nstd=2, ax=None, **kwargs):
     """
+    author:
     Plots an `nstd` sigma ellipse based on the mean and covariance of a point
     "cloud" (points, an Nx2 array).
 
@@ -88,8 +77,10 @@ def plot_point_cov(points, nstd=2, ax=None, **kwargs):
     cov = np.cov(points, rowvar=False)
     return plot_cov_ellipse(cov, pos, nstd, ax, **kwargs)
 
+
 def plot_cov_ellipse(cov, pos, nstd=2, ax=None, **kwargs):
     """
+    author:
     Plots an `nstd` sigma error ellipse based on the specified covariance
     matrix (`cov`). Additional keyword arguments are passed on to the
     ellipse patch artist.
@@ -109,6 +100,7 @@ def plot_cov_ellipse(cov, pos, nstd=2, ax=None, **kwargs):
     -------
         A matplotlib ellipse artist
     """
+
     def eigsorted(cov):
         vals, vecs = np.linalg.eigh(cov)
         order = vals.argsort()[::-1]
@@ -119,11 +111,9 @@ def plot_cov_ellipse(cov, pos, nstd=2, ax=None, **kwargs):
 
     vals, vecs = eigsorted(cov)
     theta = np.degrees(np.arctan2(*vecs[:,0][::-1]))
-
     # Width and height are "full" widths, not radius
     width, height = 2 * nstd * np.sqrt(vals)
     ellip = Ellipse(xy=pos, width=width, height=height, angle=theta, **kwargs)
-
     ax.add_artist(ellip)
     return ellip
 
@@ -136,6 +126,7 @@ def remove_hypotheticals(df, col_name="Function"):
         if not "hypothetical" in x and not "phage" in x:
             keep.append(i)
     return df.loc[keep]
+
 
 def get_subset_genes(df, key, col_return,column_name="function"):
     keep = []
@@ -154,30 +145,26 @@ def draw_heatmap_of_subset(df_index, meta, title, rpkms, samples,
     if draw is True returns figure, if False returns dataframe
 
     """
-    dline_meta = meta[meta["group.ID"].isin(cases)]
+    dline_meta = meta[meta["case"].isin(cases)]
     subset_rpkms = dline_meta.merge(rpkms.loc[df_index][dline_meta.index].T, left_index=True, right_index=True)
     subset_means = {}
     for gene in df_index:
         subset_means[gene] = {}
-        for case in subset_rpkms["group.ID"].unique():
-            m = round(subset_rpkms[subset_rpkms["group.ID"] == case][gene].mean(), 2)
+        for case in subset_rpkms["case"].unique():
+            m = round(subset_rpkms[subset_rpkms["case"] == case][gene].mean(), 2)
             subset_means[gene][case] = m
     t = pd.DataFrame(subset_means).T
     t = t[cases]
     t.rename(index=str, columns={c: samples[c] for c in t.columns}, inplace=True)
     if draw:
         fig = plt.figure(figsize=fs)
-        s = sns.heatmap(np.log2(t + 1), cmap=my_cmap,
-                        linewidths=0.5, linecolor='black',
-                        cbar_kws={'label': 'Log2 RPKMs'});
-
+        s = sns.heatmap(np.log2(t + 1), cmap=my_cmap, linewidths=0.5, linecolor='black',
+                        cbar_kws={'label': 'Log2 TPMs'})
         s.set_title(title)
         return fig
     return t
 
-
-
-
+# Should not need these functions below
 
 
 def join_subset_means(label_subset_dict, meta, rpkms, samples, my_cmap):
