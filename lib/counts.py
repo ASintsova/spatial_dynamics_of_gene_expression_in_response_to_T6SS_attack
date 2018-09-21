@@ -107,7 +107,6 @@ def parse_patric_gff(gff_file):
                 try:
                     pid = re.search(r'ID=.*?;', description).group().strip("ID=|;")
                 except AttributeError:
-                    print(line)
                     continue
                 try:
                     tag = re.search(r'locus_tag=.*?;', description).group().strip("locus_tag=|;")
