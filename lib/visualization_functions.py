@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 import scipy.stats
 import seaborn as sns
+from settings import *
 from sklearn.decomposition import PCA
 
 
@@ -138,45 +139,75 @@ def get_subset_genes(df, key, col_return,column_name="function"):
     return df.loc[keep][col_return]
 
 
-def draw_heatmap_of_subset(df_index, meta, title, rpkms, samples,
-                           my_cmap, fs=(4, 4), cases=["Case12", "Case7", "Case11", "Case8"],
-                           draw=True):
+def draw_heatmap_of_subset(cnts, info, genes,  names, col_id='case',
+                           cases= ["Case12", "Case7", "Case11", "Case8"], subset_name="test",
+                           draw=False, fs=(4,4), my_cmap=''):
     """
-    if draw is True returns figure, if False returns dataframe
-
+    given a list of genes and cases calculate mean for each gene + for whole subset
     """
-    dline_meta = meta[meta["case"].isin(cases)]
-    subset_rpkms = dline_meta.merge(rpkms.loc[df_index][dline_meta.index].T, left_index=True, right_index=True)
-    subset_means = {}
-    for gene in df_index:
-        subset_means[gene] = {}
-        for case in subset_rpkms["case"].unique():
-            m = round(subset_rpkms[subset_rpkms["case"] == case][gene].mean(), 2)
-            subset_means[gene][case] = m
-    t = pd.DataFrame(subset_means).T
-    t = t[cases]
-    t.rename(index=str, columns={c: samples[c] for c in t.columns}, inplace=True)
+    assert col_id in info.columns
+    info = info[info[col_id].isin(cases)]
+    data = info.merge(cnts.T, left_index=True, right_index=True)
+    subset_means = []
+    gene_means = []
+    groups = data.groupby(col_id)
+    for case in cases:
+        df = groups.get_group(case)
+        gene_means.append(pd.Series(df[genes].mean(), name=names[case]))
+        subset_means.append((names[case], df[genes].mean().mean()))
+    subset_df = pd.DataFrame.from_records(subset_means, columns=["Sample", subset_name], index="Sample")
+    subset_df.index.name=""
+    gene_df = pd.concat(gene_means, axis=1)
     if draw:
         fig = plt.figure(figsize=fs)
-        s = sns.heatmap(np.log2(t + 1), cmap=my_cmap, linewidths=0.5, linecolor='black',
+        s = sns.heatmap(np.log2(gene_df + 1), cmap=my_cmap, linewidths=0.5, linecolor='black',
                         cbar_kws={'label': 'Log2 TPMs'})
-        s.set_title(title)
+        return fig, ''
+    return gene_df, subset_df
+
+
+def join_subset_means(subset_dict, cnts, info, cases, names, draw=False, fs=(4,4), my_cmap=''):
+    subsets=[]
+    for label, subset in subset_dict.items():
+        _, subset_df = draw_heatmap_of_subset(cnts, info, subset, cases=cases,
+                                              names=names, subset_name=label)
+        subsets.append(subset_df)
+    subset_df = pd.concat(subsets, axis=1).T
+    if draw:
+        fig = plt.figure(figsize=fs)
+        sns.heatmap(np.log2(subset_df + 1), cmap=my_cmap, linewidths=0.5, linecolor='black',
+                        cbar_kws={'label': 'Log2 TPMs'})
         return fig
-    return t
+    return subset_df
+
+#
+# def draw_heatmap_of_subset(genes, meta, title, cnts, samples,
+#                            my_cmap, fs=(4, 4), col = 'case',
+#                            cases=["Case12", "Case7", "Case11", "Case8"], draw=True):
+#     """
+#     if draw is True returns figure, if False returns dataframe
+#
+#     """
+#     case_meta = meta[meta[col].isin(cases)]
+#     samples = case_meta.index
+#     case_cnts = case_meta.join(cnts.loc[genes].T, how='inner')
+#     subset_means = {}
+#     for gene in genes:
+#         subset_means[gene] = {}
+#         for case in case_cnts[col].unique():
+#             m = round(case_cnts[case_cnts[col] == case][gene].mean(), 2)
+#             subset_means[gene][case] = m
+#     t = pd.DataFrame(subset_means).T
+#     t = t[cases]
+#     t.rename(index=str, columns={c: samples[c] for c in t.columns}, inplace=True)
+#     if draw:
+#         fig = plt.figure(figsize=fs)
+#         s = sns.heatmap(np.log2(t + 1), cmap=my_cmap, linewidths=0.5, linecolor='black',
+#                         cbar_kws={'label': 'Log2 TPMs'})
+#         s.set_title(title)
+#         return fig
+#     return t
 
 # Should not need these functions below
 
 
-def join_subset_means(label_subset_dict, meta, rpkms, samples, my_cmap):
-    means_list = []
-    for label, subset in label_subset_dict.items():
-        means_list.append(find_subset_mean(label, subset, meta, rpkms, samples, my_cmap))
-
-    return pd.concat(means_list, axis=1, keys=[s.name for s in means_list]).T
-
-
-def find_subset_mean(label, subset, meta, rpkms, samples, my_cmap):
-    cts = draw_heatmap_of_subset(subset.index, meta, label,
-                                 rpkms, samples, my_cmap, draw=False).mean()
-    cts.name = label
-    return cts

@@ -48,7 +48,7 @@ thirty = "30 min"
 zero = "0 min"
 four = "4 hrs"
 
-samples = {"Case1": "{} | {}".format(wt_L, zero),
+case_to_name = {"Case1": "{} | {}".format(wt_L, zero),
            "Case2": "{} | {}".format(wt_L, four),
            "Case3": "{} | {}".format(mut_L, zero),
            "Case4": "{} | {}".format(mut_L, four),
@@ -62,6 +62,8 @@ samples = {"Case1": "{} | {}".format(wt_L, zero),
            "Case12":"{} | {} | {}".format(wt, bh_mut, zero),
           "Case13": "{} | {} | {}".format(wt, bh_wt,zero ),
            "Case14":"{} | {} | {}".format(wt, bh_wt, thirty)}
+
+my_cmap = LinearSegmentedColormap.from_list('custom blue', [col5, col4, col2,col1], N=256)
 
 
 def process_config(config_file=''):
